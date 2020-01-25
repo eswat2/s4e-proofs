@@ -3,6 +3,7 @@
 
   let min = 24
   let max = 480
+  let step = 4
   let value = 24
   let width = 200
   let tag = "px"
@@ -48,6 +49,6 @@
 
 <main>
   <h1>Icon Proofs</h1>
-  <Slider {min} {max} bind:value {width} {tag} />
+  <Slider {min} {max} {step} bind:value {width} {tag} />
   <Proofs size={value} />
 </main>

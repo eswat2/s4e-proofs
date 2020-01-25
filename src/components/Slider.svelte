@@ -1,6 +1,7 @@
 <script>
   export let min = 0
   export let max = 100
+  export let step = 1
   export let value = 0
   export let width = 100
   export let tag = ""
@@ -30,6 +31,7 @@
     type="range"
     {min}
     {max}
+    {step}
     {value}
     bind:value
     style={`width: ${width}px;`} />
