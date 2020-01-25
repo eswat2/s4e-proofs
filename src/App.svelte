@@ -1,5 +1,5 @@
 <script>
-  import { Proofs, Slider } from "./components"
+  import { Eswat2, Proofs, Slider } from "./components"
 
   let min = 24
   let max = 480
@@ -34,6 +34,8 @@
     --clrs-white: #ffffff;
   }
   main {
+    color: var(--clrs-navy);
+    -webkit-font-smoothing: antialiased;
     text-align: center;
     padding: 1em;
     margin: 0 auto;
@@ -48,6 +50,7 @@
 </style>
 
 <main>
+  <Eswat2 />
   <h1>Icon Proofs</h1>
   <Slider {min} {max} {step} bind:value {width} {tag} />
   <Proofs size={value} />

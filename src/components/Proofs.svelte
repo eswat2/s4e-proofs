@@ -37,7 +37,7 @@
 <div class="proofs">
   {#each Keys as key}
     <div width={size} height={size} title={key}>
-      <svelte:component this={Icons[key]} {size} />
+      <svelte:component this={Icons[key]} {size} hex={navy} />
     </div>
   {/each}
 </div>
