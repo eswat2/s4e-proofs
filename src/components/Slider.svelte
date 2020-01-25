@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
   input {
     margin: 0px;
