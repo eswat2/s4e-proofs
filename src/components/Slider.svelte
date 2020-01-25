@@ -44,14 +44,14 @@
     height: 10px;
     cursor: pointer;
     animate: 0.2s;
-    box-shadow: 1px 1px 1px var(--clrs-black);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
     background: var(--clrs-teal);
-    border-radius: 5px;
-    border: 1px solid var(--clrs-black);
+    border-radius: 0px;
+    border: 1px solid var(--clrs-navy);
   }
   input[type="range"]::-webkit-slider-thumb {
-    box-shadow: 1px 1px 1px var(--clrs-black);
-    border: 1px solid var(--clrs-black);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    border: 1px solid var(--clrs-navy);
     height: 30px;
     width: 15px;
     border-radius: 5px;
@@ -68,14 +68,14 @@
     height: 10px;
     cursor: pointer;
     animate: 0.2s;
-    box-shadow: 1px 1px 1px var(--clrs-black);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
     background: var(--clrs-teal);
-    border-radius: 5px;
-    border: 1px solid var(--clrs-black);
+    border-radius: 0px;
+    border: 1px solid var(--clrs-navy);
   }
   input[type="range"]::-moz-range-thumb {
-    box-shadow: 1px 1px 1px var(--clrs-black);
-    border: 1px solid var(--clrs-black);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    border: 1px solid var(--clrs-navy);
     height: 30px;
     width: 15px;
     border-radius: 5px;
@@ -93,20 +93,20 @@
   }
   input[type="range"]::-ms-fill-lower {
     background: var(--clrs-teal);
-    border: 1px solid var(--clrs-black);
-    border-radius: 10px;
-    box-shadow: 1px 1px 1px var(--clrs-black);
+    border: 1px solid var(--clrs-navy);
+    border-radius: 0px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   }
   input[type="range"]::-ms-fill-upper {
     background: var(--clrs-teal);
-    border: 1px solid var(-clrs-black);
-    border-radius: 10px;
-    box-shadow: 1px 1px 1px var(--clrs-black);
+    border: 1px solid var(--clrs-black);
+    border-radius: 0px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
   }
   input[type="range"]::-ms-thumb {
     margin-top: 1px;
-    box-shadow: 1px 1px 1px var(--clrs-black);
-    border: 1px solid var(--clrs-black);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    border: 1px solid var(--clrs-navy);
     height: 30px;
     width: 15px;
     border-radius: 5px;
