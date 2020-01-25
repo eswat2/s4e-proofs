@@ -1,5 +1,11 @@
 <script>
-  import { Proofs } from "./components"
+  import { Proofs, Slider } from "./components"
+
+  let min = 24
+  let max = 480
+  let value = 24
+  let width = 200
+  let tag = "px"
 </script>
 
 <style>
@@ -42,5 +48,6 @@
 
 <main>
   <h1>Icon Proofs</h1>
-  <Proofs />
+  <Slider {min} {max} bind:value {width} {tag} />
+  <Proofs size={value} />
 </main>

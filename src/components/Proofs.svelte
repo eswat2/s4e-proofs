@@ -9,7 +9,7 @@
   import { SimpleRadio, SimpleRadio2 } from "./toggles"
   import { navy } from "../utils"
 
-  const size = 48
+  export let size = undefined
 
   const Icons = {
     ChevronDoubleLeft,
@@ -27,18 +27,16 @@
   .proofs {
     display: flex;
     justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
     width: 100%;
     padding-bottom: 100px;
-  }
-  .icon {
-    width: 48px;
-    height: 48px;
   }
 </style>
 
 <div class="proofs">
   {#each Keys as key}
-    <div class="icon" title={key}>
+    <div width={size} height={size} title={key}>
       <svelte:component this={Icons[key]} {size} />
     </div>
   {/each}
