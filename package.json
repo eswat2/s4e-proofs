@@ -17,8 +17,8 @@
     "rollup-plugin-livereload": "1.0.4",
     "rollup-plugin-svelte": "5.1.1",
     "rollup-plugin-terser": "5.2.0",
-    "s4e-icons": "0.0.6",
-    "svelte": "3.17.3"
+    "s4e-icons": "0.0.7",
+    "svelte": "3.18.0"
   },
   "dependencies": {
     "sirv-cli": "0.4.5"
