@@ -7,7 +7,7 @@
   export let title = undefined
 
   // NOTE:  we need to identify the components that have a selected property...
-  const radioList = ["Radio", "Radio2"]
+  const selectableList = ["Check", "Puzzle", "Radio", "Radio2"]
 
   let color = hex
   let selected = false
@@ -19,7 +19,7 @@
 </script>
 
 <div on:click={handleClick} width={size} height={size} {title}>
-  {#if radioList.includes(title)}
+  {#if selectableList.includes(title)}
     <svelte:component this={icon} hex={color} {size} {selected} />
   {:else}
     <svelte:component this={icon} hex={color} {size} />
