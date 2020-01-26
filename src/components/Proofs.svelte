@@ -1,25 +1,10 @@
 <script>
-  import {
-    ChevronDoubleLeft,
-    Close,
-    Fingerprint,
-    Paw,
-    Refresh
-  } from "s4e-icons"
-  import { SimpleRadio, SimpleRadio2 } from "./toggles"
+  import * as Icons from "s4e-icons"
+  import Toggle from "./Toggle.svelte"
   import { navy } from "../utils"
 
   export let size = undefined
 
-  const Icons = {
-    ChevronDoubleLeft,
-    Close,
-    Fingerprint,
-    Paw,
-    Radio: SimpleRadio,
-    Radio2: SimpleRadio2,
-    Refresh
-  }
   const Keys = Object.keys(Icons)
 </script>
 
@@ -36,8 +21,6 @@
 
 <div class="proofs">
   {#each Keys as key}
-    <div width={size} height={size} title={key}>
-      <svelte:component this={Icons[key]} {size} hex={navy} />
-    </div>
+    <Toggle hex={navy} icon={Icons[key]} {size} title={key} />
   {/each}
 </div>
