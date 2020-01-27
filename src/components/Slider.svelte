@@ -122,13 +122,19 @@
 
   input[type="range"] {
     margin: 0px;
-    margin-left: 70px;
     border: none;
+  }
+  label {
+    width: 60px;
+    margin-right: 10px;
+    text-align: right;
   }
 </style>
 
 <div class="row">
+  <label for="size">Size:</label>
   <input
+    id="size"
     type="range"
     {min}
     {max}
