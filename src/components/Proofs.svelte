@@ -1,5 +1,5 @@
 <script>
-  import * as Icons from "s4e-icons"
+  import * as Icons from "s4e-ikons"
   import Toggle from "./Toggle.svelte"
   import { navy } from "../utils"
 

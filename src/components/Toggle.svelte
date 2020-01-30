@@ -18,7 +18,14 @@
   }
 </script>
 
-<div on:click={handleClick} width={size} height={size} {title}>
+<style>
+  .ikon {
+    display: flex;
+    margin: 2px;
+  }
+</style>
+
+<div class="ikon" on:click={handleClick} width={size} height={size} {title}>
   {#if selectableList.includes(title)}
     <svelte:component this={icon} hex={color} {size} {selected} />
   {:else}
