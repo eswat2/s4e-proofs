@@ -19,7 +19,7 @@
     "rollup-plugin-svelte": "5.1.1",
     "rollup-plugin-terser": "5.2.0",
     "s4e-icons": "0.0.22",
-    "s4e-ikons": "0.0.6",
+    "s4e-ikons": "0.0.7",
     "svelte": "3.18.1"
   },
   "dependencies": {
