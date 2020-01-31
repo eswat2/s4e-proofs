@@ -21,7 +21,7 @@
 <style>
   .ikon {
     display: flex;
-    margin: 2px;
+    margin: 5px;
   }
 </style>
 

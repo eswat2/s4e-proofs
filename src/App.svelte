@@ -51,7 +51,7 @@
 
 <main>
   <Eswat2 />
-  <h1>Icon Proofs</h1>
+  <h1>Ikon Proofs</h1>
   <Slider {min} {max} {step} bind:value {width} {tag} />
   <Proofs size={value} />
 </main>
