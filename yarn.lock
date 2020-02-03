@@ -34,10 +34,10 @@
     magic-string "^0.25.2"
     resolve "^1.11.0"
 
-"@rollup/plugin-node-resolve@7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@rollup/plugin-node-resolve/-/plugin-node-resolve-7.1.0.tgz#94ed832a0444f5e8c529526303c83f8283e4cbc5"
-  integrity sha512-pN3fQsTYuA/guTDCyAthMHWqupoGVSO4bgUFVK8ulr/zmNY9bY/xewNO2ptHJYZY1FW3KkblF+I4a4MWEBYJQA==
+"@rollup/plugin-node-resolve@7.1.1":
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/@rollup/plugin-node-resolve/-/plugin-node-resolve-7.1.1.tgz#8c6e59c4b28baf9d223028d0e450e06a485bb2b7"
+  integrity sha512-14ddhD7TnemeHE97a4rLOhobfYvUVcaYuqTnL8Ti7Jxi9V9Jr5LY7Gko4HZ5k4h4vqQM0gBQt6tsp9xXW94WPA==
   dependencies:
     "@rollup/pluginutils" "^3.0.6"
     "@types/resolve" "0.0.8"
@@ -969,9 +969,9 @@ nanomatch@^1.2.9:
     to-regex "^3.0.1"
 
 needle@^2.2.1:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/needle/-/needle-2.4.0.tgz#6833e74975c444642590e15a750288c5f939b57c"
-  integrity sha512-4Hnwzr3mi5L97hMYeNl8wRW/Onhy4nUKR/lVemJ8gJedxxUyBLm9kkrDColJvoSfwi0jCNhD+xCdOtiGDQiRZg==
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/needle/-/needle-2.3.2.tgz#3342dea100b7160960a450dc8c22160ac712a528"
+  integrity sha512-DUzITvPVDUy6vczKKYTnWc/pBZ0EnjMJnQ3y+Jo5zfKFimJs7S3HFCxCRZYB9FUZcrzUQr3WsmvZgddMEIZv6w==
   dependencies:
     debug "^3.2.6"
     iconv-lite "^0.4.4"
@@ -1269,15 +1269,15 @@ rollup@1.31.0:
     "@types/node" "*"
     acorn "^7.1.0"
 
-s4e-icons@0.0.23:
-  version "0.0.23"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.23.tgz#5b48d421bf2db00cbe8dc8acb4392adb4c381103"
-  integrity sha512-uXwZjJPJsn88FV8J0MnVRYpOBryKfooWJNgVPpUgo97b+XFwumwCWqdD+FnnCzK765ZLNeHghjn/w4BI5H9FjQ==
+s4e-icons@0.0.24:
+  version "0.0.24"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.24.tgz#4176ac17fe0dd684f31ed473765aaac13ffbdbf5"
+  integrity sha512-QzvalpDYVptZlzY+1c/aNVn/09wnjtyKeeg9tBEgf371294KVjLYXPDMqYZvTp3TYqI8OZb3CK/2QIGhdAt36w==
 
-s4e-ikons@0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/s4e-ikons/-/s4e-ikons-0.0.8.tgz#e72aa376737ec90ee17e9388173a1d11c3044dcc"
-  integrity sha512-HB5Ll++uvwCwF0gl2HgiEZOrkna1C3OUqmjCFLS9impANzGCVjv/iQUjPwDZnlXeQ1h7TFToQp+I4T+PkjTxVA==
+s4e-ikons@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/s4e-ikons/-/s4e-ikons-0.0.9.tgz#74b886c85d9efb806889be65f695c250b52e2db2"
+  integrity sha512-1DCQnNr4wstC5uOjOh2+SSDdYX4HrsXv3FusWMtSWfyWzBUI1dLVrW/e+wafrVs6GK3j7Gc0+vsVvgX3mrdXuQ==
 
 sade@^1.4.0:
   version "1.7.0"
