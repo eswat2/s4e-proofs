@@ -7,7 +7,7 @@
     "start": "sirv public",
     "test": "echo skipping...",
     "predeploy": "yarn build",
-    "deploy": "cd public; now deploy --name s4e-proofs",
+    "deploy": "cd public; now --prod",
     "open": "open https://s4e-proofs.eswat2.now.sh"
   },
   "devDependencies": {
