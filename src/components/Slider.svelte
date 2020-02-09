@@ -139,7 +139,6 @@
     {min}
     {max}
     {step}
-    {value}
     bind:value
     style={`width: ${width}px;`} />
   <span class="value">{value}{tag}</span>
