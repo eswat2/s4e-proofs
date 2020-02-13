@@ -18,7 +18,7 @@
     "rollup-plugin-livereload": "1.0.4",
     "rollup-plugin-svelte": "5.1.1",
     "rollup-plugin-terser": "5.2.0",
-    "s4e-icons": "0.0.27",
+    "s4e-icons": "0.0.28",
     "svelte": "3.18.2"
   },
   "dependencies": {
