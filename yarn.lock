@@ -63,9 +63,9 @@
   integrity sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==
 
 "@types/node@*":
-  version "13.7.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.4.tgz#76c3cb3a12909510f52e5dc04a6298cdf9504ffd"
-  integrity sha512-oVeL12C6gQS/GAExndigSaLxTrKpQPxewx9bOcwfvJiJge4rr7wNaph4J+ns5hrmIV2as5qxqN8YKthn9qh0jw==
+  version "13.7.7"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.7.7.tgz#1628e6461ba8cc9b53196dfeaeec7b07fa6eea99"
+  integrity sha512-Uo4chgKbnPNlxQwoFmYIwctkQVkMMmsAoGGU4JKwLuvBefF0pCq4FybNSnfkfRCpC7ZW7kttcC/TrRtAJsvGtg==
 
 "@types/resolve@0.0.8":
   version "0.0.8"
@@ -1260,19 +1260,19 @@ rollup-pluginutils@^2.3.3, rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@1.31.1:
-  version "1.31.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-1.31.1.tgz#4170d6f87148d46e5fbe29b493f8f3ea3453c96f"
-  integrity sha512-2JREN1YdrS/kpPzEd33ZjtuNbOuBC3ePfuZBdKEybvqcEcszW1ckyVqzcEiEe0nE8sqHK+pbJg+PsAgRJ8+1dg==
+rollup@1.32.0:
+  version "1.32.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-1.32.0.tgz#c65ce134850aca1ce595fcac07d1dc5d53bf227c"
+  integrity sha512-ab2tF5pdDqm2zuI8j02ceyrJSScl9V2C24FgWQ1v1kTFTu1UrG5H0hpP++mDZlEFyZX4k0chtGEHU2i+pAzBgA==
   dependencies:
     "@types/estree" "*"
     "@types/node" "*"
     acorn "^7.1.0"
 
-s4e-icons@0.0.31:
-  version "0.0.31"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.31.tgz#f3bb72a7d1fbaf2d26e3af48afb8e4a27d5bb89a"
-  integrity sha512-YpUiyfGBLsORkfPM4DOpwG+j1RTm4LLQyjj7w+W6a4qtXnIwTWcbQJNh8P3qvr89W+4nUJrJYvxD4YYc0JlQsw==
+s4e-icons@0.0.32:
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.32.tgz#43241ae9d468ef203cb5e00240e2bab43a794f07"
+  integrity sha512-Mkwtjc7J1VMnmXTeYJxKMAQtV0n7jHS55K/VyIVy3G0zwUj1KrJ3Ei1AjTFZ7TaV+WdvuLYr+u82Ey6fdVKH+A==
 
 sade@^1.4.0:
   version "1.7.3"
@@ -1519,9 +1519,9 @@ tar@^4.4.2:
     yallist "^3.0.3"
 
 terser@^4.6.2:
-  version "4.6.3"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-4.6.3.tgz#e33aa42461ced5238d352d2df2a67f21921f8d87"
-  integrity sha512-Lw+ieAXmY69d09IIc/yqeBqXpEQIpDGZqT34ui1QWXIUpR2RjbqEkT8X7Lgex19hslSqcWM5iMN2kM11eMsESQ==
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-4.6.4.tgz#40a0b37afbe5b57e494536815efa68326840fc00"
+  integrity sha512-5fqgBPLgVHZ/fVvqRhhUp9YUiGXhFJ9ZkrZWD9vQtFBR4QIGTnbsb+/kKqSqfgp3WnBwGWAFnedGTtmX1YTn0w==
   dependencies:
     commander "^2.20.0"
     source-map "~0.6.1"
