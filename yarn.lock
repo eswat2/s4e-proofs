@@ -1269,10 +1269,10 @@ rollup@1.32.0:
     "@types/node" "*"
     acorn "^7.1.0"
 
-s4e-icons@0.0.34:
-  version "0.0.34"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.34.tgz#d2e5ad86f738e2caeb368d0c231a62c5b800932d"
-  integrity sha512-mk3z7Qu7uu22TvgtW62r1gGJncVgFnEtalMi7Rfn0ZCazrEWM7Ig9FhwSilgzUQ709P7zjDr3AzfCAadGSNrpg==
+s4e-icons@0.0.35:
+  version "0.0.35"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.35.tgz#498de033dce9f12c4e8ad4333e6fa69c8e0ef10e"
+  integrity sha512-limjlaSfPyKQCrPo/2m2jOZzNr2ofM7mHCjumTdbKPffrgsCr9STvDmpETgABsYC9+qunXjjqpz+mW1J3lDMNw==
 
 sade@^1.4.0:
   version "1.7.3"
