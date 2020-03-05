@@ -1269,10 +1269,10 @@ rollup@1.32.0:
     "@types/node" "*"
     acorn "^7.1.0"
 
-s4e-icons@0.0.36:
-  version "0.0.36"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.36.tgz#9dc780d005b7133bc06d0c41f98f09b56b18105c"
-  integrity sha512-NPg2TU09fQpCJCoQfME1maR0UPRoJpAIb6GjdErg+ad2avu1DHDqwCfI4SR+E5OSBbwh4IEuY3Y6LfjgtBhoAw==
+s4e-icons@0.0.37:
+  version "0.0.37"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.37.tgz#a168ca30b0a1db24d8b56c33088b90cacba6d738"
+  integrity sha512-3LFODuDZOtCkP0OSfGZQ7E7vVvNxQAEGu3DeHHBmmA96Yqaki93pjTIZJb0dTvx0V1mQRkCzWw2QTfi8KdBa3g==
 
 sade@^1.4.0:
   version "1.7.3"
@@ -1500,10 +1500,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte@3.19.1:
-  version "3.19.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.19.1.tgz#2455e443f8ca67b98f3b7eb58285eaeb8af0c4b9"
-  integrity sha512-MGBh6LiWwwOfzlH9epQ8mP5DNWsuc6fWsZpLy47beqNG8wSkrQ/ez7TxaV+8VZ5KOwJJnfesj5gqgGjM2NcWVw==
+svelte@3.19.2:
+  version "3.19.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.19.2.tgz#4b0169ee33b37399f08eb92163593a0a46c242c7"
+  integrity sha512-Jswg065u8R9QYcN0rdpTQSFIr0hFq7YUzcPpEY6ZpFSAWkJKZG9AJvHE1d8+NJDTfr7SzKrO6EYssYYkUmszpA==
 
 tar@^4.4.2:
   version "4.4.13"
