@@ -892,9 +892,9 @@ minimist@0.0.8:
   integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
 
 minimist@^1.2.0:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.3.tgz#3db5c0765545ab8637be71f333a104a965a9ca3f"
-  integrity sha512-+bMdgqjMN/Z77a6NlY/I3U5LlRDbnmaAk6lDveAPKwSpcPM4tKAuYsvYF8xjhOPXhOYGe/73vVLVez5PW+jqhw==
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
 
 minipass@^2.6.0, minipass@^2.8.6, minipass@^2.9.0:
   version "2.9.0"
@@ -1255,17 +1255,17 @@ rollup-pluginutils@^2.3.3, rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.0.3.tgz#b28fd528b3b15a8caf01fa7446c83bd66142b0ab"
-  integrity sha512-OjTD1pmtqCFaaoTl+zf3dXlG0FR1PudauQzAYmP5hDLLrrisXP6EuzAx9MY6En5bv61e8F6JGcVQxsVOcqFTUA==
+rollup@2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.0.5.tgz#55b8c0d62360a095e322ac7425b13ac5a97edcb4"
+  integrity sha512-bECGz+RYpw3NYCvLnABu3REUROYbnZsfQZA37ekm/KlgKt/fyxBNN4waBnlLwzx4r6jNBs56SbTn7PEgJjw3fQ==
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.40:
-  version "0.0.40"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.40.tgz#474d58d01485036bafa100130fdbdd648b9ae16b"
-  integrity sha512-dUPQUyOQ7koCk/98DtfVgrM2vwwMRK4tYWPes4Dwz4JKl3cZSpzpYeqDTeXU6emO/JS+E7oUmV7rW18O2GXjBg==
+s4e-icons@0.0.41:
+  version "0.0.41"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.41.tgz#42b70ec2c999f8db29dda4f8ffc233e805442a3e"
+  integrity sha512-7udwbPfpSTfH25wcOmRoEZl+0dyHXvg+tS6O00hhmqJVKLpTGJdeHB7yAo0UujSsQyBDwmpgOn+aakTwfO/mwA==
 
 sade@^1.4.0:
   version "1.7.3"
