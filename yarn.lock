@@ -1262,10 +1262,10 @@ rollup@2.0.6:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.42:
-  version "0.0.42"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.42.tgz#9f8e9c995359d1a6adc7fd347a9b4c0655c6b041"
-  integrity sha512-wsZm0GY5g9oNWfImmvXrOXU86PkMAaZHn/GUzR/7sCmaG/hMQmE31B3kVbRh3oV76H3u1oENpy6X69sP31zfKw==
+s4e-icons@0.0.43:
+  version "0.0.43"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.43.tgz#aa9d2e056cc37fe5c0361fba902756bcd91e5ec7"
+  integrity sha512-zRJdnzS0FlBB05Z657tal5mR2fbZZTmH2qIirzM5deMuziv6WIl5cJHuDmGAJoQ+nTNYjwsDDmecz3L89DPI3w==
 
 sade@^1.4.0:
   version "1.7.3"
@@ -1493,10 +1493,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte@3.19.2:
-  version "3.19.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.19.2.tgz#4b0169ee33b37399f08eb92163593a0a46c242c7"
-  integrity sha512-Jswg065u8R9QYcN0rdpTQSFIr0hFq7YUzcPpEY6ZpFSAWkJKZG9AJvHE1d8+NJDTfr7SzKrO6EYssYYkUmszpA==
+svelte@3.20.0:
+  version "3.20.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.20.0.tgz#15a0c118712720abe5396415a1a6e4ecefadb627"
+  integrity sha512-RMJeM/1603O9nJKb7KL1BCGFJ5cbOKTvjPjkkhRwu+qbub70hp/Q3vn7gF8aPlna5zG1IhiYuAfQw95yZGA8cA==
 
 tar@^4.4.2:
   version "4.4.13"
