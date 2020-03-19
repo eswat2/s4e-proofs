@@ -15,7 +15,7 @@
     "@rollup/plugin-node-resolve": "7.1.1",
     "rangetouch": "2.0.1",
     "rollup": "2.1.0",
-    "rollup-plugin-livereload": "1.0.4",
+    "rollup-plugin-livereload": "1.1.0",
     "rollup-plugin-svelte": "5.1.1",
     "rollup-plugin-terser": "5.3.0",
     "s4e-icons": "0.0.45",
