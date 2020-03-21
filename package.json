@@ -8,11 +8,13 @@
     "test": "echo skipping...",
     "predeploy": "yarn build",
     "deploy": "cd public; now --prod",
+    "cc": "prettier --check src",
     "open": "open https://s4e-proofs.eswat2.now.sh"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "11.0.2",
     "@rollup/plugin-node-resolve": "7.1.1",
+    "prettier": "2.0.1",
     "rangetouch": "2.0.1",
     "rollup": "2.1.0",
     "rollup-plugin-livereload": "1.1.0",

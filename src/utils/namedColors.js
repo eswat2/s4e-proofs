@@ -39,7 +39,7 @@ const namedColors = {
   purple,
   black,
   gray,
-  silver
+  silver,
 }
 
 const colorNames = Object.keys(namedColors)
@@ -66,6 +66,6 @@ export {
   slate4,
   white,
   namedColors,
-  colorNames
+  colorNames,
 }
 export default namedColors
