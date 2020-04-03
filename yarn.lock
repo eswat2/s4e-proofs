@@ -63,9 +63,9 @@
   integrity sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==
 
 "@types/node@*":
-  version "13.9.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.9.8.tgz#09976420fc80a7a00bf40680c63815ed8c7616f4"
-  integrity sha512-1WgO8hsyHynlx7nhP1kr0OFzsgKz5XDQL+Lfc3b1Q3qIln/n8cKD4m09NJ0+P1Rq7Zgnc7N0+SsMnoD1rEb0kA==
+  version "13.11.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.11.0.tgz#390ea202539c61c8fa6ba4428b57e05bc36dc47b"
+  integrity sha512-uM4mnmsIIPK/yeO+42F2RQhGUIs39K2RFmugcJANppXe6J1nvH87PvzPZYpza7Xhhs8Yn9yIAVdLZ84z61+0xQ==
 
 "@types/resolve@0.0.8":
   version "0.0.8"
@@ -915,9 +915,9 @@ mixin-deep@^1.2.0:
     is-extendable "^1.0.1"
 
 mkdirp@^0.5.0, mkdirp@^0.5.1:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.4.tgz#fd01504a6797ec5c9be81ff43d204961ed64a512"
-  integrity sha512-iG9AK/dJLtJ0XNgTuDbSyNS3zECqDlAhnQW4CsNxBG3LQJBbHmRX1egw39DmtOdCAqY+dKXV+sgPgilNWUKMVw==
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.5.tgz#d91cefd62d1436ca0f41620e251288d420099def"
+  integrity sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==
   dependencies:
     minimist "^1.2.5"
 
@@ -959,9 +959,9 @@ nanomatch@^1.2.9:
     to-regex "^3.0.1"
 
 needle@^2.2.1:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/needle/-/needle-2.3.3.tgz#a041ad1d04a871b0ebb666f40baaf1fb47867117"
-  integrity sha512-EkY0GeSq87rWp1hoq/sH/wnTWgFVhYlnIkbJ0YJFfRgEFlz2RraCjBpFQ+vrEgEdp0ThfyHADmkChEhcb7PKyw==
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/needle/-/needle-2.4.1.tgz#14af48732463d7475696f937626b1b993247a56a"
+  integrity sha512-x/gi6ijr4B7fwl6WYL9FwlCvRQKGlUNvnceho8wxkwXqN8jvVmmmATTmZPRRG7b/yC1eode26C2HO9jl78Du9g==
   dependencies:
     debug "^3.2.6"
     iconv-lite "^0.4.4"
@@ -1228,10 +1228,10 @@ rollup-plugin-livereload@1.1.0:
   dependencies:
     livereload "0.8.0 || ^0.8.2"
 
-rollup-plugin-svelte@5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-svelte/-/rollup-plugin-svelte-5.2.0.tgz#7d05bb00437643d0b11b5eac21f0eabab517aed1"
-  integrity sha512-6B7gRsJC/rS/ATEy3J51McsNgNcDFibRQ/L3rHsDMUYeCDCm3dsw3KEqf3WaxX0ZdApzZ1XWcnTXGQlwVPYpnQ==
+rollup-plugin-svelte@5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-svelte/-/rollup-plugin-svelte-5.2.1.tgz#f9d362d1b1d8cef0fa3782f2270f9261b715644c"
+  integrity sha512-wc93cN66sRpX6uFljVFqvWT6NU3V5ab/uLXKt2UiARuexFU/ctolzkmdXM7WM5iKdTX9scToS9sabJTJV4DUMA==
   dependencies:
     require-relative "^0.8.7"
     rollup-pluginutils "^2.8.2"
@@ -1262,10 +1262,10 @@ rollup@2.3.2:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.51:
-  version "0.0.51"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.51.tgz#b080e31f647054376f1572aa4ceea98e80db8113"
-  integrity sha512-UjPPhO047vjO5uAyIQySjp4qqoBx4nsPJ6w1HX0xy8qpr1bch8qCOtI6BLD8rK2QE7YYEJ7JDKbZwfPJ4Presw==
+s4e-icons@0.0.52:
+  version "0.0.52"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.52.tgz#7f0e4de02cf4d2213cf197c227b3c9ecc3b53a01"
+  integrity sha512-++cm6s2Q+3td9u74PPpMXkuqyI8E03wK0SuNqTtHrqxZGHf3p7wF0e/A5UAmrJKzy+jfkFy7Nql2clcR2wjViw==
 
 sade@^1.4.0:
   version "1.7.3"
