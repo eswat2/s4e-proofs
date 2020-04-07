@@ -11,12 +11,26 @@
 
     <title>Svelte app</title>
 
+    <link rel="apple-touch-icon" href="/assets/svelte-logo-192x192.png" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="stylesheet" href="/global.css" />
     <link rel="stylesheet" href="/build/bundle.css" />
+    <link rel="manifest" href="/manifest.json" />
 
     <script defer src="/build/bundle.js"></script>
   </head>
 
-  <body></body>
+  <body>
+    <noscript>
+      <div class="flex items-center h-full">
+        Oops! Javascript required here! Allow it and try again!
+      </div>
+    </noscript>
+    <script>
+      /* Only register a service worker if it's supported */
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/service-worker.js")
+      }
+    </script>
+  </body>
 </html>
