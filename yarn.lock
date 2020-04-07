@@ -10,9 +10,9 @@
     "@babel/highlight" "^7.8.3"
 
 "@babel/helper-validator-identifier@^7.9.0":
-  version "7.9.0"
-  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.9.0.tgz#ad53562a7fc29b3b9a91bbf7d10397fd146346ed"
-  integrity sha512-6G8bQKjOh+of4PV/ThDm/rRqlU7+IGoJuofpagU5GlEl29Vv0RGqqt86ZGRV8ZuSOY3o+8yXl5y782SMcG7SHw==
+  version "7.9.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.9.5.tgz#90977a8e6fbf6b431a7dc31752eee233bf052d80"
+  integrity sha512-/8arLKUFq882w4tWGj9JYzRpAlZgiWUJ+dtteNTDqrRBz9Iguck9Rn3ykuBDoUwh2TO4tSAJlrxDUOXWklJe4g==
 
 "@babel/highlight@^7.8.3":
   version "7.9.0"
@@ -1255,17 +1255,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.3.3.tgz#5982df700d7aae8907075ba68122bb57d98e9cd0"
-  integrity sha512-uJ9VNWk80mb4wDCSfd1AyHoSc9TrWbkZtnO6wbsMTp9muSWkT26Dvc99MX1yGCOTvUN1Skw/KpFzKdUDuZKTXA==
+rollup@2.3.4:
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.3.4.tgz#979e461f8cab1a71aec2d37ce2a434052ae70223"
+  integrity sha512-8U9x54RCVhrUEV1zon4Pp8kokg1HM0fwzf5vkwe2/rOfyTClarx5e27kFlaoZ7ofJiazWkNQ+dgdG4HuZxkQ9A==
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.54:
-  version "0.0.54"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.54.tgz#98ea1b2b2123ee4a3eb235eca341eda9c9931348"
-  integrity sha512-VgQ01OpM7mpl4KpLukMH8L2No6whsg8R6xY9Gp09ChVwCvYrCdgH01hBsdVtk9RtxNVHdFH2itXsLP/Lda3dCQ==
+s4e-icons@0.0.55:
+  version "0.0.55"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.55.tgz#06881ac86eed612105b9631d26261babbb37c72c"
+  integrity sha512-MoeYME1C2k2DVN/EqzIWm62lCPJGysE+6xIXJMo67VHi5Xotr1X02T3G+rqf/6EfRoeEzGHzB4/PLCfxBzjBvA==
 
 sade@^1.4.0:
   version "1.7.3"
