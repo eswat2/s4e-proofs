@@ -476,10 +476,10 @@ rollup@2.6.1:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.59:
-  version "0.0.59"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.59.tgz#024110202d5525cb2e5e2d18e11fda2747605f17"
-  integrity sha512-Nnv9afOqsab1LNK2livjBEkBEEi6nVCv8/Apg19JiKsaYipveWgqHVptJ7Q2nm6ebwsfqMft2AA/jqIBzaSc6g==
+s4e-icons@0.0.60:
+  version "0.0.60"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.60.tgz#6a3ea2886473a2fe9fdaa1894564776f01bd8385"
+  integrity sha512-Bi1klGGhXfLdpm2sOBuCm2B0piluWAAlUcetbmaym/W50jADCvl53s4Yl9H03TuKyfYl2aIyH3oQOdAXD2Eppg==
 
 sade@^1.4.0:
   version "1.7.3"
