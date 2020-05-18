@@ -461,17 +461,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.10.2:
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.10.2.tgz#9adfcf8ab36861b5b0f8ca7b436f5866e3e9e200"
-  integrity sha512-tivFM8UXBlYOUqpBYD3pRktYpZvK/eiCQ190eYlrAyrpE/lzkyG2gbawroNdbwmzyUc7Y4eT297xfzv0BDh9qw==
+rollup@2.10.3:
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.10.3.tgz#b024155a93a13412ff547764f8fd4f67fbf64f51"
+  integrity sha512-Pw4isow3qDZvIozWtEBSZckSxpZgAj11hLijykaO/qZLNq4VGZVZOANBzoWlMabTtg9edQTe3pkLU39PoIkOeg==
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.77:
-  version "0.0.77"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.77.tgz#11b73dcdeccb7697ac69a836b2cf6771999cf1a8"
-  integrity sha512-b/AiSOIzPvHkAJFaQuMxKE+26aOR2JfqfOKb96mYoNRQjz+dL18lSCnElRVVMAb/5mnheyj+DVmpIcfGELF8xg==
+s4e-icons@0.0.78:
+  version "0.0.78"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.78.tgz#49d101d9c63a8e5c7b9e7141528c945df475f007"
+  integrity sha512-+ubuP8MagZ7uPRxHsDtrAdhMSeAS+T44/uYtrZqJXNcAE2pCZtgh3M6mJZmdGx37ofJ/xji3a4hoAZNOcJzS/w==
 
 sade@^1.4.0:
   version "1.7.3"
@@ -544,9 +544,9 @@ svelte@3.22.3:
   integrity sha512-DumSy5eWPFPlMUGf3+eHyFSkt5yLqyAmMdCuXOE4qc5GtFyLxwTAGKZmgKmW2jmbpTTeFQ/fSQfDBQbl9Eo7yw==
 
 terser@^4.6.2:
-  version "4.6.13"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-4.6.13.tgz#e879a7364a5e0db52ba4891ecde007422c56a916"
-  integrity sha512-wMvqukYgVpQlymbnNbabVZbtM6PN63AzqexpwJL8tbh/mRT9LE5o+ruVduAGL7D6Fpjl+Q+06U5I9Ul82odAhw==
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-4.7.0.tgz#15852cf1a08e3256a80428e865a2fa893ffba006"
+  integrity sha512-Lfb0RiZcjRDXCC3OSHJpEkxJ9Qeqs6mp2v4jf2MHfy8vGERmVDuvjXdd/EnP5Deme5F2yBRBymKmKHCBg2echw==
   dependencies:
     commander "^2.20.0"
     source-map "~0.6.1"
