@@ -74,9 +74,9 @@
   integrity sha512-iaIVzr+w2ZJ5HkidlZ3EJM8VTZb2MJLCjw3V+505yVts0gRC4UMvjw0d1HPtGqI/HQC/KdsYtayfzl+AXY2R8g==
 
 "@types/node@*":
-  version "14.0.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.9.tgz#43896ab87fc82bda1dfd600cdf44a0c8a64e11d2"
-  integrity sha512-0sCTiXKXELOBxvZLN4krQ0FPOAA7ij+6WwvD0k/PHd9/KAkr4dXel5J9fh6F4x1FwAQILqAWkmpeuS6mjf1iKA==
+  version "14.0.11"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.11.tgz#61d4886e2424da73b7b25547f59fdcb534c165a3"
+  integrity sha512-lCvvI24L21ZVeIiyIUHZ5Oflv1hhHQ5E1S25IRlKIXaRkVgmXpJMI3wUJkmym2bTbCe+WoIibQnMVAU3FguaOg==
 
 "@types/resolve@0.0.8":
   version "0.0.8"
@@ -489,17 +489,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.13.0.tgz#fe28513d31114f6ffb3ecb9dfe5ba04fba40d4b6"
-  integrity sha512-sD4VeuVYQV2feBSLMfmen94a6Tzfvxv6+FBU1Ri9qBrSWtKgLhi6dCGEeOnSwkvTVT+MrDe9UW8erGID9L1T+A==
+rollup@2.13.1:
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.13.1.tgz#06ac5be4f85df0b79f23cdfa90de63e78095a984"
+  integrity sha512-EiICynxIO1DTFmFn+/98gfaqCToK2nbjPjHJLuNvpcwc+P035VrXmJxi3JsOhqkdty+0cOEhJ26ceGTY3UPMPQ==
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.89:
-  version "0.0.89"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.89.tgz#46b44f089e2c41ef6c3031bf7a4e419082ab7001"
-  integrity sha512-cwef57Jvg63Y+hSVXjr8NTNn/E3ckimcdQjy2IwKhI61AqqTFqGMSALyZoUDuCI2StTMGfUz/N5X6hVo72lAIA==
+s4e-icons@0.0.90:
+  version "0.0.90"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.90.tgz#e8babb581fa3dcab3b01f177584ed9d0e3b6a4a5"
+  integrity sha512-l0FU/WM7d8ZXif/+Z/xCNpL+qZ32ZjVWpgtA7OZXt/enjUlqaoaBxkYB9syH1d1WL61p2D2nqGaj9MeeQagD+g==
 
 sade@^1.4.0:
   version "1.7.3"
