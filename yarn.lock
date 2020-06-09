@@ -74,9 +74,9 @@
   integrity sha512-iaIVzr+w2ZJ5HkidlZ3EJM8VTZb2MJLCjw3V+505yVts0gRC4UMvjw0d1HPtGqI/HQC/KdsYtayfzl+AXY2R8g==
 
 "@types/node@*":
-  version "14.0.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.11.tgz#61d4886e2424da73b7b25547f59fdcb534c165a3"
-  integrity sha512-lCvvI24L21ZVeIiyIUHZ5Oflv1hhHQ5E1S25IRlKIXaRkVgmXpJMI3wUJkmym2bTbCe+WoIibQnMVAU3FguaOg==
+  version "14.0.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.12.tgz#9c1d8ffb8084e8936603a6122a7649e40e68e04b"
+  integrity sha512-/sjzehvjkkpvLpYtN6/2dv5kg41otMGuHQUt9T2aiAuIfleCQRQHXXzF1eAw/qkZTj5Kcf4JSTf7EIizHocy6Q==
 
 "@types/resolve@0.0.8":
   version "0.0.8"
@@ -340,9 +340,9 @@ kleur@^3.0.0:
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
 livereload-js@^3.1.0:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/livereload-js/-/livereload-js-3.2.2.tgz#fffb018fb8a8b06d366ca1b03af6048b8732d20f"
-  integrity sha512-xhScbNeC687ZINjEf/bD+BMiPx4s4q0mehcLb3zCc8+mykOtmaBR4vqzyIV9rIGdG9JjHaT0LiFdscvivCjX1Q==
+  version "3.2.3"
+  resolved "https://registry.yarnpkg.com/livereload-js/-/livereload-js-3.2.3.tgz#64beff07ce5b2a74485d1a08c2ec04ac68e021bc"
+  integrity sha512-dXL/WgTGI2K3oeYX/z1lngFXSKtjCB2j7n9WSSluoU6/6+N4LWNoMiCBFNgn8dh3luBn4JBajVSvM5I7Xn6SLA==
 
 livereload@^0.9.1:
   version "0.9.1"
@@ -496,10 +496,10 @@ rollup@2.15.0:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.93:
-  version "0.0.93"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.93.tgz#4bc9ad7aa248a59098d100c3ab418ac3b473db9c"
-  integrity sha512-4TwX6uBb6PJFPgKQ2kSQrTQtggXNPTakR6P1IFSrr9wNAQvEzPskyJ6IsIeBMTLdQp2UQl5wcfuZMugmh+2N4Q==
+s4e-icons@0.0.94:
+  version "0.0.94"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.94.tgz#93b5d5bce10410b9039e8dffc6583b1d818037cc"
+  integrity sha512-6sMuvQgPcx15kUNdXDLHEPIK3F/2yse0+MDZlmw0FpL0hsKpK598PHnC+iQ/Bbj+4S7wheqavD2OAddxb0HvTQ==
 
 sade@^1.4.0:
   version "1.7.3"
@@ -573,10 +573,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@3.23.0:
-  version "3.23.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.0.tgz#bbcd6887cf588c24a975b14467455abfff9acd3f"
-  integrity sha512-cnyd96bK/Nw5DnYuB1hzm5cl6+I1fpmdKOteA7KLzU9KGLsLmvWsSkSKbcntzODCLmSySN3HjcgTHRo6/rJNTw==
+svelte@3.23.1:
+  version "3.23.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.1.tgz#b201b9ebc25034cb23562ba284efa3e06f357b7b"
+  integrity sha512-HTKVSDHcn4ztxRl3g425pwihePXkCvn4B2gO5Y3n3GHzHZWxYM9T+l/LHs7HjJjcI7Xl7/ujnfA3S45pz0qXIg==
 
 terser@^4.7.0:
   version "4.7.0"
