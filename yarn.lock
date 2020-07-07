@@ -74,9 +74,9 @@
   integrity sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==
 
 "@types/node@*":
-  version "14.0.18"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.18.tgz#5111b2285659442f9f95697386a2b42b875bd7e9"
-  integrity sha512-0Z3nS5acM0cIV4JPzrj9g/GH0Et5vmADWtip3YOXOp1NpOLU8V3KoZDc8ny9c1pe/YSYYzQkAWob6dyV/EWg4g==
+  version "14.0.19"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.19.tgz#994d99708822bca643a2364f8aeed04a16e0f5a1"
+  integrity sha512-yf3BP/NIXF37BjrK5klu//asUWitOEoUP5xE1mhSUjazotwJ/eJDgEmMQNlOeWOVv72j24QQ+3bqXHE++CFGag==
 
 "@types/resolve@0.0.8":
   version "0.0.8"
@@ -496,10 +496,10 @@ rollup@2.20.0:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.103:
-  version "0.0.103"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.103.tgz#6a940d3cb097bce189c54eb549333c73b0a2b1b9"
-  integrity sha512-vzbIXuBPXryfKfNmzuDoOWr7S01sGAkVOC6Jws9+BLlH+w28ynVuG0jQLGbBX5ZjsN8u+DguQmJRPEKoFNb/pA==
+s4e-icons@0.0.104:
+  version "0.0.104"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.104.tgz#a70767aec864617a79340fee88633ce6418c55b4"
+  integrity sha512-NhPAHXQk+7yv/ZObbhIGA5ckiWQ9EECXiCyX+T77oHpefl8oe40VPQVFmL9frY04101mR6AnQoUe21GZjSIUAQ==
 
 sade@^1.6.0:
   version "1.7.3"
@@ -580,10 +580,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@3.23.2:
-  version "3.23.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.2.tgz#f3e500384261a2e77b29681ee744c3c790fbcdc3"
-  integrity sha512-hE8GeTM83YVR4GY6/6PeDEcGct4JS5aCi+IYbCAa76oaPSfuF7L85DQYULQxlTK/KPWzw3L1GRGmC3oPG/PQoA==
+svelte@3.24.0:
+  version "3.24.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.24.0.tgz#6565a42c9705796fa66c6abb4fedc09f4323a4a8"
+  integrity sha512-VFXom6EP2DK83kxy4ZlBbaZklSbZIrpNH3oNXlPYHJUuW4q1OuAr3ZoYbfIVTVYPDgrI7Yq0gQcOhDlAtO4qfw==
 
 terser@^4.7.0:
   version "4.8.0"
