@@ -12,15 +12,15 @@
     "open": "open https://s4e-proofs.eswat2.now.sh"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "13.0.0",
-    "@rollup/plugin-node-resolve": "8.1.0",
+    "@rollup/plugin-commonjs": "13.0.1",
+    "@rollup/plugin-node-resolve": "8.4.0",
     "prettier": "2.0.5",
     "rangetouch": "2.0.1",
     "rollup": "2.21.0",
     "rollup-plugin-livereload": "1.3.0",
     "rollup-plugin-svelte": "5.2.3",
     "rollup-plugin-terser": "6.1.0",
-    "s4e-icons": "0.0.105",
+    "s4e-icons": "0.0.106",
     "svelte": "3.24.0"
   },
   "dependencies": {
