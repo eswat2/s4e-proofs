@@ -150,9 +150,9 @@ chalk@^2.0.0:
     supports-color "^5.3.0"
 
 chokidar@^3.3.0:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.4.1.tgz#e905bdecf10eaa0a0b1db0c664481cc4cbc22ba1"
-  integrity sha512-TQTJyr2stihpC4Sya9hs2Xh+O2wf+igjL36Y75xx2WdHuiICcn/XJza46Jwt0eT5hVpQOzo3FpY3cj3RVYLX0g==
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.4.2.tgz#38dc8e658dec3809741eb3ef7bb0a47fe424232d"
+  integrity sha512-IZHaDeBeI+sZJRX7lGcXsdzgvZqKv6sECqsbErJA4mHWfpRrD8B97kSFN4cQz6nGBGiuFia1MKR4d6c1o8Cv7A==
   dependencies:
     anymatch "~3.1.1"
     braces "~3.0.2"
@@ -490,17 +490,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.23.0:
-  version "2.23.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.23.0.tgz#b7ab1fee0c0e60132fd0553c4df1e9cdacfada9d"
-  integrity sha512-vLNmZFUGVwrnqNAJ/BvuLk1MtWzu4IuoqsH9UWK5AIdO3rt8/CSiJNvPvCIvfzrbNsqKbNzPAG1V2O4eTe2XZg==
+rollup@2.23.1:
+  version "2.23.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.23.1.tgz#d458d28386dc7660c2e8a4978bea6f9494046c20"
+  integrity sha512-Heyl885+lyN/giQwxA8AYT2GY3U+gOlTqVLrMQYno8Z1X9lAOpfXPiKiZCyPc25e9BLJM3Zlh957dpTlO4pa8A==
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.110:
-  version "0.0.110"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.110.tgz#3ceebac6cdade78206b25626ab79dc33629dc3e6"
-  integrity sha512-JoxWLCWxDMIrOZECi+8g5XMwFUw+pgtxmM8Bkke8S3z0fZWojAeSBmNJ4NxXlIt6TpVKPe9VtA50E3o+y2lgPA==
+s4e-icons@0.0.111:
+  version "0.0.111"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.111.tgz#e6d2193152912a858715105a7f1b710e1685db9e"
+  integrity sha512-0Qp50rV53fJ2csvKSKxsunDWuDKmkKqsYmuI4EWd5tcl0ZcTVySuSVvPE2LtTsC9D2hX+5pxibUlR4rQqsSbhA==
 
 sade@^1.6.0:
   version "1.7.3"
