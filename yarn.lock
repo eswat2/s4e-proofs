@@ -73,9 +73,9 @@
   integrity sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==
 
 "@types/node@*":
-  version "14.11.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.8.tgz#fe2012f2355e4ce08bca44aeb3abbb21cf88d33f"
-  integrity sha512-KPcKqKm5UKDkaYPTuXSx8wEP7vE9GnuaXIZKijwRYcePpZFDVuy2a57LarFKiORbHOuTOOwYzxVxcUzsh2P2Pw==
+  version "14.11.10"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.10.tgz#8c102aba13bf5253f35146affbf8b26275069bef"
+  integrity sha512-yV1nWZPlMFpoXyoknm4S56y2nlTAuFYaJuQtYRAOU7xA/FJ9RY0Xm7QOkaYMMmr8ESdHIuUb6oQgR/0+2NqlyA==
 
 "@types/resolve@1.17.1":
   version "1.17.1"
@@ -489,17 +489,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.30.0:
-  version "2.30.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.30.0.tgz#316a1eb0389dbda4082ef2d191b31488995e4c41"
-  integrity sha512-j4K1hUZfgFM03DUpayd3c7kZW+2wDbI6rj7ssQxpCpL1vsGpaM0vSorxBuePFwQDFq9O2DI6AOQbm174Awsq4w==
+rollup@2.32.0:
+  version "2.32.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.32.0.tgz#ac58c8e85782bea8aa2d440fc05aba345013582a"
+  integrity sha512-0FIG1jY88uhCP2yP4CfvtKEqPDRmsUwfY1kEOOM+DH/KOGATgaIFd/is1+fQOxsvh62ELzcFfKonwKWnHhrqmw==
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.133:
-  version "0.0.133"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.133.tgz#d548fec095a46f8ea54b9b675013df3bdca68c59"
-  integrity sha512-fGiyJSftkqVrZO0YYzAHXCi9siDxKVvq9ahJAlVlcsIywE04bN13PnqAm1D+WQz49pRpUILP3BKI5FKYDwyxmQ==
+s4e-icons@0.0.134:
+  version "0.0.134"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.134.tgz#277ab337aee21dc9dcafc438aa745b8b8c30b987"
+  integrity sha512-w9IqrEO4LVqY7lrs7f0wRS38EXbQT/eYTi7qKFUAD49zo+E/Cxmlwo92TySylugHUW9+kswTFLLegSlQJOfftg==
 
 sade@^1.6.0:
   version "1.7.4"
@@ -525,10 +525,10 @@ serialize-javascript@^4.0.0:
   dependencies:
     randombytes "^2.1.0"
 
-sirv-cli@1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.6.tgz#a4924254d965b23a518512f70010e710185de2f1"
-  integrity sha512-K/iY1OHG7hTw4GzLoqMhwzKCbgWmx5joYAAF2+CwyiamWCpVzAgNVWgAc0JmSA2Gf3wseov05il2QbFTGTZMVg==
+sirv-cli@1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/sirv-cli/-/sirv-cli-1.0.7.tgz#51dbba8ecfc29d85fdd62b7d16fce3317dfa07be"
+  integrity sha512-Ln9oXA+HVXWbj/SM/Am6TIVesF6pgAGxnUtn6pw9ofOVEyazv6Gf/J9vU2u6VbE14+pf/NNRGQbVJ6ZWuOruuA==
   dependencies:
     console-clear "^1.1.0"
     get-port "^3.2.0"
@@ -536,13 +536,13 @@ sirv-cli@1.0.6:
     local-access "^1.0.1"
     sade "^1.6.0"
     semiver "^1.0.0"
-    sirv "^1.0.6"
+    sirv "^1.0.7"
     tinydate "^1.0.0"
 
-sirv@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/sirv/-/sirv-1.0.6.tgz#178c13bffccc0dea715a0e50894cf3a6c74a715e"
-  integrity sha512-LRGu7Op4Xl9hhigOy2kcB53zAYTjNDdpooey49dIU0cMdpOv9ithVf7nstk3jvs8EhMiT/VORoyazZYGgw4vnA==
+sirv@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/sirv/-/sirv-1.0.7.tgz#ad8ca1f84430777a59162592626c2b8e9b9f1384"
+  integrity sha512-QMT2OTD3CTr8de9VByPmvSEeyt6k8/Cxg0J2kQJ5HNhIWfhFg9ypcIWWzez9rPWnGj+WtJ7AZD/MdT/vdilV/A==
   dependencies:
     "@polka/url" "^1.0.0-next.9"
     mime "^2.3.1"
