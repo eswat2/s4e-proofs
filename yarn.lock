@@ -516,10 +516,10 @@ rollup@2.32.1:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.137:
-  version "0.0.137"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.137.tgz#caeec7fd5c0beb825f38c62d18ba242b90d1c3ea"
-  integrity sha512-6VPNey4bduQBcv2u2DCN+P+yhgW91Ka1RCdLuZ0asuRzcen081Yf0961b3sPX/fea8flKjF0kpfspkfZqQpJ1g==
+s4e-icons@0.0.138:
+  version "0.0.138"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.138.tgz#d35f70af199276dc6d1f71a79a2f59bff85938c9"
+  integrity sha512-3PjAAExOkBbWhnJxNcYA5v7jlOiQmJonccPDBc1Lou1y90xnpaUmiEMM4D/4Qp2oxpMx6oCjXSPZNrN6dITB+A==
 
 sade@^1.6.0:
   version "1.7.4"
@@ -605,15 +605,15 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@3.29.0:
-  version "3.29.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.29.0.tgz#80acac4254341ad8f3301e5ef03f4127ea967d96"
-  integrity sha512-f+A65eyOQ5ujETLy+igNXtlr6AEjAQLYd1yJE1VwNiXMQO5Z/Vmiy3rL+zblV/9jd7rtTTWqO1IcuXsP2Qv0OA==
+svelte@3.29.3:
+  version "3.29.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.29.3.tgz#832c2f13a9ce10ebb70771a2e5eb4432df96aa6f"
+  integrity sha512-XpMGm1zFTRJjUl9o7JzptAIcr5H8XvJQTZtT75z9q815s2W860merZqQbbqmpjs1RzPWjWD4f6dRuT4oEqmd1Q==
 
 terser@^5.0.0:
-  version "5.3.7"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-5.3.7.tgz#798a4ae2e7ff67050c3e99fcc4e00725827d97e2"
-  integrity sha512-lJbKdfxWvjpV330U4PBZStCT9h3N9A4zZVA5Y4k9sCWXknrpdyxi1oMsRKLmQ/YDMDxSBKIh88v0SkdhdqX06w==
+  version "5.3.8"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-5.3.8.tgz#991ae8ba21a3d990579b54aa9af11586197a75dd"
+  integrity sha512-zVotuHoIfnYjtlurOouTazciEfL7V38QMAOhGqpXDEg6yT13cF4+fEP9b0rrCEQTn+tT46uxgFsTZzhygk+CzQ==
   dependencies:
     commander "^2.20.0"
     source-map "~0.7.2"
