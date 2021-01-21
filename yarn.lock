@@ -488,10 +488,10 @@ rollup-plugin-livereload@2.0.0:
   dependencies:
     livereload "^0.9.1"
 
-rollup-plugin-svelte@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-svelte/-/rollup-plugin-svelte-7.0.0.tgz#8ececb9d1583c24e0edfbc96f8208b70b27af7a1"
-  integrity sha512-cw4yv/5v1NQV3nPbpOJtikgkB+9mfSJaqKUdq7x5fVQJnwLtcdc2JOszBs5pBY+SemTs5pmJbdEMseEavbUtjQ==
+rollup-plugin-svelte@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-svelte/-/rollup-plugin-svelte-7.1.0.tgz#d45f2b92b1014be4eb46b55aa033fb9a9c65f04d"
+  integrity sha512-vopCUq3G+25sKjwF5VilIbiY6KCuMNHP1PFvx2Vr3REBNMDllKHFZN2B9jwwC+MqNc3UPKkjXnceLPEjTjXGXg==
   dependencies:
     require-relative "^0.8.7"
     rollup-pluginutils "^2.8.2"
@@ -520,10 +520,10 @@ rollup@2.37.1:
   optionalDependencies:
     fsevents "~2.1.2"
 
-s4e-icons@0.0.163:
-  version "0.0.163"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.163.tgz#f8ba652476f426448e317f19110566ba8165ac51"
-  integrity sha512-oZ+H7GyRkzT2YQujSi3ySYKWJWHHRLAJ4vzYq5M1gQGD4li/pLZvtHqhZ9XgOdYbPLhmzzUVLqihlxlVzpDjNQ==
+s4e-icons@0.0.164:
+  version "0.0.164"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.164.tgz#5f0bfb9e0d2200a1fe90ec1c98d0ad900e19f9f2"
+  integrity sha512-zeelu4SNK3ElGkmWzuPSJCzlB4s2ex763Pw3wRc3oOM87JISAl5jLzZ3GnUoBXBCGzR3zc7qBeO4wpnCws0pog==
 
 sade@^1.6.0:
   version "1.7.4"
