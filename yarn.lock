@@ -15,9 +15,9 @@
   integrity sha512-np/lG3uARFybkoHokJUmf1QfEvRVCPbmQeUQpKow5cQ3xWrV9i3rUHodKDJPQfTVX61qKi+UdYk8kik84n7XOw==
 
 "@babel/highlight@^7.12.13":
-  version "7.12.13"
-  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.12.13.tgz#8ab538393e00370b26271b01fa08f7f27f2e795c"
-  integrity sha512-kocDQvIbgMKlWxXe9fof3TQ+gkIPOUSEYhJjqUjvKMez3krV7vbzYCDq39Oj11UAVK7JqPVGQPlgE85dPNlQww==
+  version "7.13.8"
+  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.13.8.tgz#10b2dac78526424dfc1f47650d0e415dfd9dc481"
+  integrity sha512-4vrIhfJyfNf+lCtXC2ck1rKSzDwciqF7IWFhXXrSOUC2O5DrVp+w4c6ed4AllTxhTkUP5x2tYj41VaxdVMMRDw==
   dependencies:
     "@babel/helper-validator-identifier" "^7.12.11"
     chalk "^2.0.0"
@@ -515,10 +515,10 @@ rollup@2.40.0:
   optionalDependencies:
     fsevents "~2.3.1"
 
-s4e-icons@0.0.179:
-  version "0.0.179"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.179.tgz#27bf36d4e8ed461335a449e2bbf94a92c1399b9b"
-  integrity sha512-bHykO0DbTYAZN1zajE5asL08E0KeJ18p6MiuCIGCuvBjdKcKXf5k+RlOcSp3tvH3ad9OiVULb+qhscHlHp17sw==
+s4e-icons@0.0.180:
+  version "0.0.180"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.180.tgz#ce42f25bd6904f27f16e02dec1e37359895ea5a0"
+  integrity sha512-/IfjfpvPC74prWoa/elLFgf+hLF4i5Q7dzUB6AEXoVraeFUoN3IY9o8MfCsc68xLEdM/wN5IeM5Sam8gfkVZRg==
 
 sade@^1.6.0:
   version "1.7.4"
@@ -604,10 +604,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@3.34.0:
-  version "3.34.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.34.0.tgz#a0195a0db0305d78df87520711317b99e6fb8a26"
-  integrity sha512-xWcaQ/J4Yd5k0UWz+ef6i5RW5WP3hNpluEI2qtTTKlMOXERHpVL509O9lIw7sgEn1JjJgTOS+lnnDj99vQ3YqQ==
+svelte@3.35.0:
+  version "3.35.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.35.0.tgz#e0d0ba60c4852181c2b4fd851194be6fda493e65"
+  integrity sha512-gknlZkR2sXheu/X+B7dDImwANVvK1R0QGQLd8CNIfxxGPeXBmePnxfzb6fWwTQRsYQG7lYkZXvpXJvxvpsoB7g==
 
 terser@^5.0.0:
   version "5.6.0"
