@@ -354,9 +354,9 @@ kleur@^3.0.0:
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
 livereload-js@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/livereload-js/-/livereload-js-3.3.1.tgz#61f887468086762e61fb2987412cf9d1dda99202"
-  integrity sha512-CBu1gTEfzVhlOK1WASKAAJ9Qx1fHECTq0SUB67sfxwQssopTyvzqTlgl+c0h9pZ6V+Fzd2rc510ppuNusg9teQ==
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/livereload-js/-/livereload-js-3.3.2.tgz#c88b009c6e466b15b91faa26fd7c99d620e12651"
+  integrity sha512-w677WnINxFkuixAoUEXOStewzLYGI76XVag+0JWMMEyjJQKs0ibWZMxkTlB96Lm3EjZ7IeOxVziBEbtxVQqQZA==
 
 livereload@^0.9.1:
   version "0.9.2"
@@ -503,17 +503,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.41.0:
-  version "2.41.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.41.0.tgz#b2a398bbabbf227738dedaef099e494aed468982"
-  integrity sha512-Gk76XHTggulWPH95q8V62bw6uqDH6UGvbD6LOa3QUyhuMF3eOuaeDHR7SLm1T9faitkpNrqzUAVYx47klcMnlA==
+rollup@2.41.1:
+  version "2.41.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.41.1.tgz#c7c7ada42b13be505facd516f13fb697c24c1116"
+  integrity sha512-nepLFAW5W71/MWpS2Yr7r31eS7HRfYg2RXnxb6ehqN9zY42yACxKtEfb4xq8SmNfUohAzGMcyl6jkwdLOAiUbg==
   optionalDependencies:
     fsevents "~2.3.1"
 
-s4e-icons@0.0.181:
-  version "0.0.181"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.181.tgz#8abcb18f8e62bc9323970207014ba238941dc97a"
-  integrity sha512-qBd/vHzHaoR+819NwRSF3D4qo7KCgPyLZwgLjgf9BBfuPTkyhk5wQxlMrYCnBkyfVl+ChJ56GzxQET93YGS+Ww==
+s4e-icons@0.0.182:
+  version "0.0.182"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.182.tgz#bd5848ea3d363539e5e582dde2cbeb5016c220fd"
+  integrity sha512-PCX/2ShlNnDu6G3L+qJn8jK49xCEL50GB3FPaa2iYql6oFpBtOYXUWePU0XrGSqVbs2v22HIA04/2RmAxUggog==
 
 sade@^1.6.0:
   version "1.7.4"
