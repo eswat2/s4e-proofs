@@ -24,9 +24,9 @@
     js-tokens "^4.0.0"
 
 "@polka/url@^1.0.0-next.9":
-  version "1.0.0-next.11"
-  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.11.tgz#aeb16f50649a91af79dbe36574b66d0f9e4d9f71"
-  integrity sha512-3NsZsJIA/22P3QUyrEDNA2D133H4j224twJrdipXN38dpnIOzAbUDtOwkcJ5pXmn75w7LSQDjA4tO9dm1XlqlA==
+  version "1.0.0-next.12"
+  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.12.tgz#431ec342a7195622f86688bbda82e3166ce8cb28"
+  integrity sha512-6RglhutqrGFMO1MNUXp95RBuYIuc8wTnMAV5MUhLmjTOy78ncwOw7RgeQ/HeymkKXRhZd0s2DNrM1rL7unk3MQ==
 
 "@rollup/plugin-commonjs@18.0.0":
   version "18.0.0"
@@ -503,17 +503,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@2.43.1:
-  version "2.43.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.43.1.tgz#9e5c9208c2011de227ac6c93101e11dc12e88e04"
-  integrity sha512-kvRE6VJbiv4d8m2nGeccc3qRpzOMghAhu2KeITjyZVCjneIFLPQ3zm2Wmqnl0LcUg3FvDaV0MfKnG4NCMbiSfw==
+rollup@2.44.0:
+  version "2.44.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.44.0.tgz#8da324d1c4fd12beef9ae6e12f4068265b6d95eb"
+  integrity sha512-rGSF4pLwvuaH/x4nAS+zP6UNn5YUDWf/TeEU5IoXSZKBbKRNTCI3qMnYXKZgrC0D2KzS2baiOZt1OlqhMu5rnQ==
   optionalDependencies:
     fsevents "~2.3.1"
 
-s4e-icons@0.0.192:
-  version "0.0.192"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.192.tgz#21b3451fd602546b606187b5882b70c681eb9f22"
-  integrity sha512-+zhJ+Fhkr9GbSJbe8sfR6SJ+6VGZjvArZFvC30hcz5z+fp761af+ZpPj6b7ezu1uCUzYwxqB1DpAJ2n/eZeuTg==
+s4e-icons@0.0.193:
+  version "0.0.193"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.193.tgz#04cb60f9aefbe5664aa21b038ada8284ac6defae"
+  integrity sha512-ON83W7E+JtQEhx7XwcABhLqdwdVbYztRxko0c6ymRE/kiArNPuLh4PkmusbXGnIy/Wnx3DL4qBb6PW3+hItjjg==
 
 sade@^1.6.0:
   version "1.7.4"
