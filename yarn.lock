@@ -9,17 +9,17 @@
   dependencies:
     "@babel/highlight" "^7.12.13"
 
-"@babel/helper-validator-identifier@^7.12.11":
-  version "7.12.11"
-  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.12.11.tgz#c9a1f021917dcb5ccf0d4e453e399022981fc9ed"
-  integrity sha512-np/lG3uARFybkoHokJUmf1QfEvRVCPbmQeUQpKow5cQ3xWrV9i3rUHodKDJPQfTVX61qKi+UdYk8kik84n7XOw==
+"@babel/helper-validator-identifier@^7.14.0":
+  version "7.14.0"
+  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.14.0.tgz#d26cad8a47c65286b15df1547319a5d0bcf27288"
+  integrity sha512-V3ts7zMSu5lfiwWDVWzRDGIN+lnCEUdaXgtVHJgLb1rGaA6jMrtB9EmE7L18foXJIE8Un/A/h6NJfGQp/e1J4A==
 
 "@babel/highlight@^7.12.13":
-  version "7.13.10"
-  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.13.10.tgz#a8b2a66148f5b27d666b15d81774347a731d52d1"
-  integrity sha512-5aPpe5XQPzflQrFwL1/QoeHkP2MsA4JCntcXHRhEsdsfPVkvPi2w7Qix4iV7t5S/oC9OodGrggd8aco1g3SZFg==
+  version "7.14.0"
+  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.14.0.tgz#3197e375711ef6bf834e67d0daec88e4f46113cf"
+  integrity sha512-YSCOwxvTYEIMSGaBQb5kDDsCopDdiUGsqpatp3fOlI4+2HQSkTmEVWnVuySdAC5EWCqSWWTv0ib63RjR7dTBdg==
   dependencies:
-    "@babel/helper-validator-identifier" "^7.12.11"
+    "@babel/helper-validator-identifier" "^7.14.0"
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
@@ -510,10 +510,10 @@ rollup@2.46.0:
   optionalDependencies:
     fsevents "~2.3.1"
 
-s4e-icons@0.0.199:
-  version "0.0.199"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.199.tgz#31a71e667ebd9e9c941ebb517ee5cb24c265f7d2"
-  integrity sha512-imaDB/j8Y0i5mKF72Q7Iq7lSP0cF53nea1mZmL4q3wDipVO0XelskSZHa7tGMEKissGeC+NotUx2kJZUT3z3pQ==
+s4e-icons@0.0.200:
+  version "0.0.200"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.200.tgz#f0c6d3f9c8cb9340f1ef972454d3748894f10d7d"
+  integrity sha512-KjSUrmiBX/Rml+FSW6eZh/mlrKl5CINwMBSCFVoRS9glm/rZMH7gThTjI4BXOgWjFS0wy2tK8ETifXTHlGdLBw==
 
 sade@^1.6.0:
   version "1.7.4"
@@ -599,10 +599,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@3.37.0:
-  version "3.37.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.37.0.tgz#dc7cd24bcc275cdb3f8c684ada89e50489144ccd"
-  integrity sha512-TRF30F4W4+d+Jr2KzUUL1j8Mrpns/WM/WacxYlo5MMb2E5Qy2Pk1Guj6GylxsW9OnKQl1tnF8q3hG/hQ3h6VUA==
+svelte@3.38.0:
+  version "3.38.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.38.0.tgz#8ac83558bc7beda7541fc4a347b03cf7006d5447"
+  integrity sha512-V0CbyzvXEka7zQtRYt++cpPh0zxxDUTIeNlq4KncGXn2qHnQFZ2i4L4+2QOfLwOudb9cewJeegupBQcscnBaaA==
 
 terser@^5.0.0:
   version "5.7.0"
