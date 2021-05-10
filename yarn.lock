@@ -299,9 +299,9 @@ is-binary-path@~2.1.0:
     binary-extensions "^2.0.0"
 
 is-core-module@^2.2.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.3.0.tgz#d341652e3408bca69c4671b79a0954a3d349f887"
-  integrity sha512-xSphU2KG9867tsYdLD4RWQ1VqdFl4HTO9Thf3I/3dLEfr0dbPTWKsuCKrgqMljg4nPE+Gq0VCnzT3gr0CyBmsw==
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.4.0.tgz#8e9fc8e15027b011418026e98f0e6f4d86305cc1"
+  integrity sha512-6A2fkfq1rfeQZjxrZJGerpLCTHRNEBiSgnu0+obeJpEPZRUooHgsizvzv0ZjJwOz3iWIHdJtVWJ/tmPr3D21/A==
   dependencies:
     has "^1.0.3"
 
@@ -434,10 +434,10 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.2:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.3.tgz#465547f359ccc206d3c48e46a1bcb89bf7ee619d"
   integrity sha512-KpELjfwcCDUb9PeigTs2mBJzXUPzAuP2oPcA989He8Rte0+YUAjw1JVedDhuTKPkHjSYzMN3npC9luThGYEKdg==
 
-prettier@2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
-  integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
+prettier@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
+  integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
 
 randombytes@^2.1.0:
   version "2.1.0"
@@ -510,10 +510,10 @@ rollup@2.47.0:
   optionalDependencies:
     fsevents "~2.3.1"
 
-s4e-icons@0.0.203:
-  version "0.0.203"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.203.tgz#0850cd36280c2d090eb4e7fb2208b3a4275c9bd6"
-  integrity sha512-acbtfR7UOOaYFARK8KKWoq5Q0Gp1ImtlYR5OPlIDrHMxSPFkglond0uCxIlt3CR/NnpIs80u22YlHD620yoi3g==
+s4e-icons@0.0.204:
+  version "0.0.204"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.204.tgz#3b6b01f68dc78dbaafd004b80fb40da418577e6c"
+  integrity sha512-BVW0khfPhqH6lq1whaxz0oZO6MauJmAMb+P5D5DGv8Jm5DGK/kY5UcsCMbEvHF11EKpMrPfGDAXURnD9lo0BWg==
 
 sade@^1.6.0:
   version "1.7.4"
