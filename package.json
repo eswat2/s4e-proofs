@@ -14,13 +14,13 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "19.0.0",
     "@rollup/plugin-node-resolve": "13.0.0",
-    "prettier": "2.3.1",
+    "prettier": "2.3.2",
     "rangetouch": "2.0.1",
     "rollup": "2.52.3",
     "rollup-plugin-livereload": "2.0.0",
     "rollup-plugin-svelte": "7.1.0",
     "rollup-plugin-terser": "7.0.2",
-    "s4e-icons": "0.0.222",
+    "s4e-icons": "0.0.223",
     "svelte": "3.38.3"
   },
   "dependencies": {
