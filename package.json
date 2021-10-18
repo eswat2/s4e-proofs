@@ -11,7 +11,7 @@
     "cc": "prettier --check src",
     "format": "prettier --write src",
     "spell": "cspell 'src/**/*.{js,svelte}'",
-    "open": "open https://s4e-proofs.eswat2.now.sh"
+    "open": "open https://s4e-proofs.vercel.app"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "1.0.0-next.30",
