@@ -9,6 +9,13 @@
   let tag = "px"
 </script>
 
+<main>
+  <Eswat2 />
+  <h1>Icon Proofs</h1>
+  <Slider {min} {max} {step} bind:value {width} {tag} />
+  <Proofs size={value} />
+</main>
+
 <style>
   :root {
     --clrs-navy: #001f3f;
@@ -49,10 +56,3 @@
     font-weight: 100;
   }
 </style>
-
-<main>
-  <Eswat2 />
-  <h1>Icon Proofs</h1>
-  <Slider {min} {max} {step} bind:value {width} {tag} />
-  <Proofs size={value} />
-</main>
