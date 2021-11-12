@@ -236,16 +236,16 @@ resolve@^1.20.0:
     path-parse "^1.0.6"
 
 rollup@^2.57.0:
-  version "2.59.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.59.0.tgz#108c61b0fa0a37ebc8d1f164f281622056f0db59"
-  integrity sha512-l7s90JQhCQ6JyZjKgo7Lq1dKh2RxatOM+Jr6a9F7WbS9WgKbocyUSeLmZl8evAse7y96Ae98L2k1cBOwWD8nHw==
+  version "2.60.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.60.0.tgz#4ee60ab7bdd0356763f87d7099f413e5460fc193"
+  integrity sha512-cHdv9GWd58v58rdseC8e8XIaPUo8a9cgZpnCMMDGZFDZKEODOiPPEQFXLriWr/TjXzhPPmG5bkAztPsOARIcGQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
-s4e-icons@0.0.260:
-  version "0.0.260"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.260.tgz#c1d2712a2485c08b220672c1d58f05bef55296cd"
-  integrity sha512-HOzoqoUNmTljv5+XVCffqazfiuL6XpHBdSoMa5a+G7IzV9d3nmLmayWugPBiDmBTG02wG5RM0prue1UcCnLJtw==
+s4e-icons@0.0.261:
+  version "0.0.261"
+  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.261.tgz#3ed013eca919c8e5c7017615ec091ce3220b79db"
+  integrity sha512-QL6VlwGX/xzIHNnmUpYp6hNDDAcir414inrfXWs2SsY4CuHApiyfq3kwQO2ngw9CKH5FSNP2MLckpC8WzJ5e2g==
 
 source-map-js@^0.6.2:
   version "0.6.2"
