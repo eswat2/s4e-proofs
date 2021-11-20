@@ -242,11 +242,6 @@ rollup@^2.57.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-s4e-icons@0.0.262:
-  version "0.0.262"
-  resolved "https://registry.yarnpkg.com/s4e-icons/-/s4e-icons-0.0.262.tgz#dcdddccfac1c1521d8a3efb7f70f37a622b75fec"
-  integrity sha512-zwPVnh4crOapdoVnHB8XSX9+P3MyqyUWg3g/CJS6aXZJJseQpw9EDDQlQmnNnovxOlbQf9qB0KcqOYHl+JC1lw==
-
 source-map-js@^0.6.2:
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-0.6.2.tgz#0bb5de631b41cfbda6cfba8bd05a80efdfd2385e"

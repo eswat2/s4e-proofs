@@ -1,0 +1,53 @@
+#!/bin/bash
+# ---------------------------------------------------------------------
+# NOTE:  using a bash 3 compatible hashmap...
+if [ -f .target ]
+then
+  SRC=`pwd`
+  TARGET=`cat .target`
+
+  cd ../../ionic
+
+  source .shell_map
+
+  DIRS=`find . -maxdepth 1 -mindepth 1 -type d | sort`
+  PREFIX="--"
+
+  shell_map new hashmap
+
+  if [ -d $TARGET ]
+  then
+    cd "$TARGET"
+      if [ -f package.json ]
+      then
+        LINE=`ack version package.json`
+        PUBV=`echo $LINE | sed 's/^.*[^0-9]\([0-9]*\.[0-9]*\.[0-9]*\).*$/\1/'`
+        TAG=`cksum <<< $TARGET | cut -f 1 -d ' '`
+        hashmap put $TAG $PUBV
+        printf "%s %24s  %s\n" $PREFIX $TARGET $PUBV
+      fi
+    cd ..
+  fi
+
+  cd $SRC
+
+  if [ -f .version ]
+  then
+    REF=""
+    LAST=`cat .version`
+    KEY=`basename $SRC`
+    if [ -f .target ]
+    then
+      TAG=`cksum <<< $TARGET | cut -f 1 -d ' '`
+      REF=`hashmap get $TAG`
+    fi
+    if [ "$REF" = "$LAST" ]
+    then
+      printf "%s %24s  %s \xE2\x9C\x94 \n" $PREFIX $KEY $LAST
+    else
+      printf "%s %24s  %s -- %s \n" $PREFIX $KEY $LAST $REF
+    fi
+  fi
+else
+  echo "-- no target"
+fi

@@ -1,9 +1,11 @@
 <script>
-  import { Fingerprint } from "s4e-icons"
-
   let url = "https://eswat2.github.io"
   let who = "eswat2"
 </script>
+
+<a href={url} class="eswat2" aria-label={who} title={who}>
+  <proto-ikon-loader name="fingerprint" size="24" label="eswat2" />
+</a>
 
 <style>
   .eswat2 {
@@ -20,7 +22,3 @@
     fill: var(--clrs-navy);
   }
 </style>
-
-<a href={url} class="eswat2" aria-label={who} title={who}>
-  <Fingerprint />
-</a>

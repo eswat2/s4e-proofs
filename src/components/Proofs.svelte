@@ -1,12 +1,18 @@
 <script>
-  import * as Icons from "s4e-icons"
   import Toggle from "./Toggle.svelte"
   import { navy } from "../utils"
 
   export let size = undefined
 
-  const Keys = Object.keys(Icons)
+  // NOTE:  this is loaded on the toplevel page... [ see index.html ]
+  const Keys = window.protoIkons.icons.filter((key) => key !== "slug")
 </script>
+
+<div class="proofs">
+  {#each Keys as key}
+    <Toggle hex={navy} {key} {size} />
+  {/each}
+</div>
 
 <style>
   .proofs {
@@ -18,9 +24,3 @@
     padding-bottom: 100px;
   }
 </style>
-
-<div class="proofs">
-  {#each Keys as key}
-    <Toggle hex={navy} icon={Icons[key]} {size} title={key} />
-  {/each}
-</div>

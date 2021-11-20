@@ -12,8 +12,12 @@
     "clrs",
     "eswat",
     "predeploy",
+    "proto",
     "rangetouch",
-    "rgba"
+    "rgba",
+    "sveltejs",
+    "vercel",
+    "vite"
   ],
   "ignorePaths": [
     "public/build/**",
