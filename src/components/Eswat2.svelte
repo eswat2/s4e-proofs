@@ -16,9 +16,9 @@
     height: 24px;
   }
   a {
-    fill: var(--clrs-gray);
+    color: var(--clrs-gray);
   }
   a:hover {
-    fill: var(--clrs-navy);
+    color: var(--clrs-navy);
   }
 </style>
