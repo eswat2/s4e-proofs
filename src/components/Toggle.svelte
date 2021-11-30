@@ -10,6 +10,7 @@
 </script>
 
 <div
+  class="ikon"
   on:click={handleClick}
   width={size}
   height={size}
@@ -22,10 +23,11 @@
 </div>
 
 <style>
-  div {
+  .ikon {
     color: var(--clrs-navy);
   }
-  div[selected="true"] {
+  
+  .ikon[selected="true"] {
     color: var(--clrs-red);
   }
 </style>
