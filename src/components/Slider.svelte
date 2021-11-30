@@ -16,6 +16,20 @@
   })
 </script>
 
+<div class="row">
+  <label for="size">Size:</label>
+  <input
+    id="size"
+    type="range"
+    {min}
+    {max}
+    {step}
+    bind:value
+    style={`width: ${width}px;`}
+  />
+  <span class="value">{value}{tag}</span>
+</div>
+
 <style>
   .row {
     display: flex;
@@ -130,16 +144,3 @@
     text-align: right;
   }
 </style>
-
-<div class="row">
-  <label for="size">Size:</label>
-  <input
-    id="size"
-    type="range"
-    {min}
-    {max}
-    {step}
-    bind:value
-    style={`width: ${width}px;`} />
-  <span class="value">{value}{tag}</span>
-</div>
