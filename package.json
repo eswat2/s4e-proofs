@@ -1,12 +1,12 @@
 {
   "name": "svelte-app",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
     "test": "echo skipping...",
-    "predeploy": "yarn build",
+    "predeploy": "yarn build; yarn version --patch",
     "deploy": "cd dist; ln -s ../.now .vercel; vc --prod",
     "cc": "prettier --check src",
     "format": "prettier --write src",
