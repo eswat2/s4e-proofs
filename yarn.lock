@@ -248,9 +248,9 @@
   integrity sha512-5V/R7PRbbminTpPS3ywgdAalI9BHzcEjEj9ug4kWYvBIGwSnS7T6QCFCiu+e9LvEGUqQC+NHgLY4zs1NaBj2vA==
 
 "@cspell/dict-software-terms@^2.0.14":
-  version "2.0.16"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-2.0.16.tgz#81d6f2af04f583ba7bd6475443ce2e203fc2f8ff"
-  integrity sha512-B5hgeuMYTlslkiua2WVcacgX8+L2QJgm1+Zaot0Fbbh1Uk/TbjLqR40OT0cakNur9OBZ1gtdaEsTCldqnBdKjA==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-2.1.0.tgz#de835c9b9312de404bddfb21504ba5fa7938c2f9"
+  integrity sha512-R9vfnNqp+cUqILsK3wofGvMrerr6biq+pIY1ayobLf4vUU8Wo4lK+DwRBUd7mHOu1GjXGM/scU54BP19BcYoTw==
 
 "@cspell/dict-swift@^1.0.1":
   version "1.0.2"
@@ -922,9 +922,9 @@ micromatch@^4.0.4:
     picomatch "^2.2.3"
 
 minimatch@^3.0.4:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.5.tgz#4da8f1290ee0f0f8e83d60ca69f8f134068604a3"
-  integrity sha512-tUpxzX0VAzJHjLu0xUfFv1gwVp9ba3IOuRAVH2EGuRW8a5emA2FlACLqiT/lDVtS1W+TGNwqz3sWaNyLgDJWuw==
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.1.tgz#879ad447200773912898b46cd516a7abbb5e50b0"
+  integrity sha512-reLxBcKUPNBnc/sVtAbxgRVFSegoGeLaSjmphNhcwcolhYLRgtJscn5mRl6YRZNQv40Y7P6JM2YhSIsbL9OB5A==
   dependencies:
     brace-expansion "^1.1.7"
 
@@ -1171,10 +1171,10 @@ universalify@^2.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-vite@2.8.1:
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.8.1.tgz#4b2a42c1d01d6786a2a4c278cd0ba7223b8ec15c"
-  integrity sha512-Typ8qjUnW0p53gBsJpisrKcZlEbUPZATja9BG6Z09QZjg9YrnEn/htkr/VH4WhnH7eNUQeSD+wKI1lHzQRWskw==
+vite@2.8.2:
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.8.2.tgz#6bced4a0a8b0db24636f5159c3f371c156521a58"
+  integrity sha512-zawfykcPVPYva4KusIWORNLr324Qx86/3NpfQSIOJdjnL5pYhwDoImLYMOh4lFLcP/7//tNuWM2vx2F5OSVC9w==
   dependencies:
     esbuild "^0.14.14"
     postcss "^8.4.6"
