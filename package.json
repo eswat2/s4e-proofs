@@ -14,7 +14,7 @@
     "open": "open https://s4e-proofs.vercel.app"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "1.0.0-next.38",
+    "@sveltejs/vite-plugin-svelte": "1.0.0-next.39",
     "cspell": "5.18.5",
     "prettier": "2.5.1",
     "prettier-plugin-svelte": "2.6.0",
