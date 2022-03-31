@@ -1154,10 +1154,10 @@ svelte-hmr@^0.14.11:
   resolved "https://registry.yarnpkg.com/svelte-hmr/-/svelte-hmr-0.14.11.tgz#63d532dc9c2c849ab708592f034765fa2502e568"
   integrity sha512-R9CVfX6DXxW1Kn45Jtmx+yUe+sPhrbYSUp7TkzbW0jI5fVPn6lsNG9NEs5dFg5qRhFNAoVdRw5qQDLALNKhwbQ==
 
-svelte@3.46.5:
-  version "3.46.5"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.5.tgz#808daad6f3cbbeff550c3f7511f2667971eb080a"
-  integrity sha512-T4txpIgYEGTkpFY2KQoqvtDmapu/suHMx0GN2zAImdJ7liEdG29P0XpjcNHnOEU1a4lLJn1WXxreobBSIGdcbQ==
+svelte@3.46.6:
+  version "3.46.6"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.46.6.tgz#23046a361ba5f8bafcc9cf9f6fca6d011fb005a7"
+  integrity sha512-o9nNft/OzCz/9kJpmWa1S52GAM+huCjPIsNWydYmgei74ZWlOA9/hN9+Z12INdklghu31seEXZMRHhS1+8DETw==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
@@ -1185,10 +1185,10 @@ universalify@^2.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-vite@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.9.0.tgz#4417ce84a09d93c9e5a796b296285bc2f75d6c41"
-  integrity sha512-5NAnNqzPmZzJvrswZGeTS2JHrBGIzIWJA2hBTTMYuoBVEMh0xwE0b5yyIXFxf7F07hrK4ugX2LJ7q6t7iIbd4Q==
+vite@2.9.1:
+  version "2.9.1"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.9.1.tgz#84bce95fae210a7beb566a0af06246748066b48f"
+  integrity sha512-vSlsSdOYGcYEJfkQ/NeLXgnRv5zZfpAsdztkIrs7AZHV8RCMZQkwjo4DS5BnrYTqoWqLoUe1Cah4aVO4oNNqCQ==
   dependencies:
     esbuild "^0.14.27"
     postcss "^8.4.12"
