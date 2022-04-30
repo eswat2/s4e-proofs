@@ -95,9 +95,9 @@
   integrity sha512-ASIgI/LmV2TYrD4mtk+gm4XmUSTRomOyRt7NDWyBpEww/AeawC2O2NH6FosyUT6dUU3GaXt2wgJRN7R78n1SGg==
 
 "@cspell/dict-companies@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-2.0.3.tgz#9e0f93a2cc884ff0b98d019123d1dbfb853da872"
-  integrity sha512-O622rMAaHm85AmqNyMki5je8HB/1XlTKbGOXh2UUhooI5qdgdfrjTQ6VBuHwHrfEfuODBHYTNYXVB2m23XqHCg==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-2.0.4.tgz#2ba11418478d99d67a96004ea782a47a42c501a3"
+  integrity sha512-nLNVddo+iu4q/Mu03nkVTMnSPxBkoLyZ0MgpHJZWCqxVATbBkzoZNNNjsTkJhvkbrUIWydf8YW4U4wYY+kyh7Q==
 
 "@cspell/dict-cpp@^2.0.2":
   version "2.0.3"
@@ -145,9 +145,9 @@
   integrity sha512-tKSSUf9BJEV+GJQAYGw5e+ouhEe2ZXE620S7BLKe3ZmpnjlNG9JqlnaBhkIMxKnNFkLY2BP/EARzw31AZnOv4g==
 
 "@cspell/dict-en_us@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.2.0.tgz#33ee50fac4c42036ce98b9c9925cc86b16b0f2c3"
-  integrity sha512-IJWu8MI2NdLyPzekrMi9K+v71b0qjDE+z/BccoMA/APnphqgSNM8BDUAzhio6mPKi1AvPRCNUjk79oiUfp+1Gw==
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.2.1.tgz#f06453ee65bb315d90fbcec4f947ac62493233f6"
+  integrity sha512-tx6sJOCgfLRTiXxF5Jeheo0wnhc+nedmEx9IKnWMJFzOZ1J9gXmdjDBlZE/zG8g7tsH415yqqPBh6k5J9bupiA==
 
 "@cspell/dict-filetypes@^2.0.1":
   version "2.0.1"
@@ -210,9 +210,9 @@
   integrity sha512-7WUEBEspSKtsq104WdIys1+DLqAxpJPzw74Py1TuE3fI5GvlzeSZkRFP2ya54GB2lCO4C3mq4M8EnitpibVDfw==
 
 "@cspell/dict-node@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-node/-/dict-node-2.0.0.tgz#f89ca72deac5bfc7ccd46b6b8880fad52ab44843"
-  integrity sha512-tPPl3liJORa/l6AoYqh/7rjoM7bdtaIXnIN6ox7CE0flZcBS5rWOB6mzEY3rpu/XJX0pjbBiIoqrolDkVl1RTQ==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-node/-/dict-node-2.0.1.tgz#eda891ebdbce83f20829cb6c85cd209da8cf5cdd"
+  integrity sha512-ztBWzhvI+YaMehICSJ65cohhjQqoztxf9vrS3YckOiVGBFvUMaFVNdX9klQkvrLcS/O4+2PzoGeIEkmf99amLA==
 
 "@cspell/dict-npm@^2.0.2":
   version "2.0.2"
@@ -693,9 +693,9 @@ estree-walker@^2.0.1:
   integrity sha512-Rfkk/Mp/DL7JVje3u18FxFujQlTNR2q6QfMSMB7AvCBx91NGj/ba3kCfza0f6dVDbw7YlRf/nDrn7pQrCCyQ/w==
 
 fast-equals@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/fast-equals/-/fast-equals-3.0.1.tgz#1e1ae440c04a32478faf698527315cdcf3ee7db2"
-  integrity sha512-J9FxqqC9E/ja0C+SYhoG3Jl6pQuhP92HNcVC75xDEhB+GUzPnjEp3vMfPIxPprYZFfXS5hpVvvPCWUMiDSMS8Q==
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/fast-equals/-/fast-equals-3.0.2.tgz#77f80047b381b6cb747130463ccc144e24c44097"
+  integrity sha512-iY0fAmW7fzxHp22VCRLpOgWbsWsF+DJWi1jhc8w+VGlJUiS+KcGZV2A8t+Q9oTQwhG3L1W8Lu/oe3ZyOPdhZjw==
 
 fast-json-stable-stringify@^2.1.0:
   version "2.1.0"
@@ -952,7 +952,7 @@ ms@2.1.2:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
-nanoid@^3.3.1:
+nanoid@^3.3.3:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.3.tgz#fd8e8b7aa761fe807dba2d1b98fb7241bb724a25"
   integrity sha512-p1sjXuopFs0xg+fPASzQ28agW1oHD7xDsd9Xkf3T15H3c/cifrFHVwrh74PdoklAPi+i7MdRsE47vm2r6JoB+w==
@@ -1033,11 +1033,11 @@ picomatch@^2.2.2, picomatch@^2.3.1:
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
 postcss@^8.4.12:
-  version "8.4.12"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.12.tgz#1e7de78733b28970fa4743f7da6f3763648b1905"
-  integrity sha512-lg6eITwYe9v6Hr5CncVbK70SoioNQIq81nsaG86ev5hAidQvmOeETBqs7jm43K2F5/Ley3ytDtriImV6TpNiSg==
+  version "8.4.13"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.13.tgz#7c87bc268e79f7f86524235821dfdf9f73e5d575"
+  integrity sha512-jtL6eTBrza5MPzy8oJLFuUscHDXTV5KcLlqAWHl5q5WYRfnNRGSmOZmOZ1T6Gy7A99mOZfqungmZMpMmCVJ8ZA==
   dependencies:
-    nanoid "^3.3.1"
+    nanoid "^3.3.3"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
@@ -1095,9 +1095,9 @@ rimraf@^3.0.2:
     glob "^7.1.3"
 
 rollup@^2.59.0:
-  version "2.70.2"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.70.2.tgz#808d206a8851628a065097b7ba2053bd83ba0c0d"
-  integrity sha512-EitogNZnfku65I1DD5Mxe8JYRUCy0hkK5X84IlDtUs+O6JRMpRciXTzyCUuX11b5L5pvjH+OmFXiQ3XjabcXgg==
+  version "2.71.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.71.1.tgz#82b259af7733dfd1224a8171013aaaad02971a22"
+  integrity sha512-lMZk3XfUBGjrrZQpvPSoXcZSfKcJ2Bgn+Z0L1MoW2V8Wh7BVM+LOBJTPo16yul2MwL59cXedzW1ruq3rCjSRgw==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -1159,10 +1159,10 @@ svelte-hmr@^0.14.11:
   resolved "https://registry.yarnpkg.com/svelte-hmr/-/svelte-hmr-0.14.11.tgz#63d532dc9c2c849ab708592f034765fa2502e568"
   integrity sha512-R9CVfX6DXxW1Kn45Jtmx+yUe+sPhrbYSUp7TkzbW0jI5fVPn6lsNG9NEs5dFg5qRhFNAoVdRw5qQDLALNKhwbQ==
 
-svelte@3.47.0:
-  version "3.47.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.47.0.tgz#ba46fe4aea99fc650d6939c215cd4694f5325a19"
-  integrity sha512-4JaJp3HEoTCGARRWZQIZDUanhYv0iyoHikklVHVLH9xFE9db22g4TDv7CPeNA8HD1JgjXI1vlhR1JZvvhaTu2Q==
+svelte@3.48.0:
+  version "3.48.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.48.0.tgz#f98c866d45e155bad8e1e88f15f9c03cd28753d3"
+  integrity sha512-fN2YRm/bGumvjUpu6yI3BpvZnpIm9I6A7HR4oUNYd7ggYyIwSA/BX7DJ+UXXffLp6XNcUijyLvttbPVCYa/3xQ==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
