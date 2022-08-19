@@ -157,9 +157,9 @@
   integrity sha512-tKSSUf9BJEV+GJQAYGw5e+ouhEe2ZXE620S7BLKe3ZmpnjlNG9JqlnaBhkIMxKnNFkLY2BP/EARzw31AZnOv4g==
 
 "@cspell/dict-en_us@^2.3.1":
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.3.1.tgz#66138d22bae54ed1d861c4c58fdd46e0d25640cd"
-  integrity sha512-mpjMY9Fo+cvt+BeL8bsoy8xpKhnILT0j6ith9OlYALELx8uPFyzSgFhkPBGam6jE8luG1XFsIsc0APQ7yzwhKw==
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-2.3.2.tgz#18d2b7d83028b42feea97f8826431fafc1a0d2da"
+  integrity sha512-/jkx3Lwig34nDP8zMEP8IF7Nkni4ac63FlAeK/B4yvriaz7Pqe5XbwU20otlB+y+T0nf5GxvWacIEyTFnV9BKg==
 
 "@cspell/dict-filetypes@^2.1.1":
   version "2.1.1"
@@ -197,9 +197,9 @@
   integrity sha512-04K7cPTcbYXmHICfiob4gZA1yaj4hpfM+Nl5WIJ1EAZsSGHdqmGEF28GuCjyQ8ZeKiJAsPt/vXuLBbjxkHqZyQ==
 
 "@cspell/dict-html@^3.0.4":
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-html/-/dict-html-3.0.4.tgz#fbeec0485fc0a7f4c01fa7d29dd7eeb9c28e54f8"
-  integrity sha512-DV1lAATRel7vuJZYpnR92pIr9ZeSE+uuQDnkuzJaCP9os+Y6zkkUfvNLbNsqe7wD5IzkSA2CtxOR44MMf2YfvQ==
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-html/-/dict-html-3.0.5.tgz#b7ec878d1ae249a56366666452d5db6199623f89"
+  integrity sha512-Gay6gEKQydJHAoXfEz0sBLoS1x0lgnybJ5X8kO6k149x4I4fOX3IK3TEOox6gFWHI2hD7bY7VkhYLuD8p+HbRw==
 
 "@cspell/dict-java@^3.0.7":
   version "3.0.7"
@@ -813,9 +813,9 @@ flat-cache@^3.0.4:
     rimraf "^3.0.2"
 
 flatted@^3.1.0:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.6.tgz#022e9218c637f9f3fc9c35ab9c9193f05add60b2"
-  integrity sha512-0sQoMh9s0BYsm+12Huy/rkKxVu4R1+r96YX5cG44rHV0pQ6iC3Q+mkoMFaGWObMFYQxCVT+ssG1ksneA2MI9KQ==
+  version "3.2.7"
+  resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.7.tgz#609f39207cb614b89d0765b477cb2d437fbf9787"
+  integrity sha512-5nqDSxl8nn5BSNxyR3n4I6eDmbolI6WT+QqR547RwxQapgjQBmtktdP+HTBb/a/zLsbzERTONyUB5pefh5TtjQ==
 
 form-data@^3.0.0:
   version "3.0.1"
@@ -1321,10 +1321,10 @@ universalify@^2.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-vite@3.0.8:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-3.0.8.tgz#aa095ad8e3e5da46d9ec7e878f262678965d6531"
-  integrity sha512-AOZ4eN7mrkJiOLuw8IA7piS4IdOQyQCA81GxGsAQvAZzMRi9ZwGB3TOaYsj4uLAWK46T5L4AfQ6InNGlxX30IQ==
+vite@3.0.9:
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-3.0.9.tgz#45fac22c2a5290a970f23d66c1aef56a04be8a30"
+  integrity sha512-waYABTM+G6DBTCpYAxvevpG50UOlZuynR0ckTK5PawNVt7ebX6X7wNXHaGIO6wYYFXSM7/WcuFuO2QzhBB6aMw==
   dependencies:
     esbuild "^0.14.47"
     postcss "^8.4.16"
