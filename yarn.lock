@@ -227,9 +227,9 @@
   integrity sha512-sK2cpuV0EAc43Amd5xeQXkI9MeRTECMw+yjap06gKSModbgI7BqJUHeKZed+0Hii+LpaJ4TYpLGiRVsO+qSk0w==
 
 "@cspell/dict-npm@^3.1.2":
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-3.1.2.tgz#3577e3b5235800631447fb165db4be94471981b2"
-  integrity sha512-dg4M38nrCCeBOYKVqPG91JPJ67j9LygPeNnu5fa7E9Z1eho3fkYHvfKlF3t4EZyAOxEobp0ZB0iXaCuX2YknlA==
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-3.1.3.tgz#dfba43f30cd9e9945f1a9d9fbe0446feab2669f5"
+  integrity sha512-xnGp+TMpArdMLBUSG+ZrbEuhvY016rb76Yh35/OPDDEEz4ulENxLSZJxtN2/A0tZ9FJngDNSdFh7eJsOFmciZQ==
 
 "@cspell/dict-php@^2.0.0":
   version "2.0.0"
@@ -272,9 +272,9 @@
   integrity sha512-MUwA2YKpqaQOSR4V1/CVGRNk8Ii5kf6I8Ch+4/BhRZRQXuwWbi21rDRYWPqdQWps7VNzAbbMA+PQDWsD5YY38g==
 
 "@cspell/dict-software-terms@^2.2.11":
-  version "2.2.11"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-2.2.11.tgz#110e6804004c805e8e46d16d1782aa89fa97b795"
-  integrity sha512-PZ8EqFSCEoJzcH/bp/+c2ze6aCK/8u5b7Qt1+O2Cwzmr8VLVZIVcpHpELnh4IvT4MRvzfa2WCDoUSofPwAfrsg==
+  version "2.2.12"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-2.2.12.tgz#2cdf890409311144c2b0f67d915167e851832b2d"
+  integrity sha512-wVVy4on8Uq5VAWm3cqrrhewTRRbpmNxtmTURGQ5rT6FqUtJvZ7W2Pj3QquzXsA9zSFZhGFQR3U7IdFesET9yAg==
 
 "@cspell/dict-sql@^1.0.4":
   version "1.0.4"
@@ -716,7 +716,7 @@ esbuild-windows-arm64@0.15.10:
   resolved "https://registry.yarnpkg.com/esbuild-windows-arm64/-/esbuild-windows-arm64-0.15.10.tgz#5a6fcf2fa49e895949bf5495cf088ab1b43ae879"
   integrity sha512-S+th4F+F8VLsHLR0zrUcG+Et4hx0RKgK1eyHc08kztmLOES8BWwMiaGdoW9hiXuzznXQ0I/Fg904MNbr11Nktw==
 
-esbuild@^0.15.6:
+esbuild@^0.15.9:
   version "0.15.10"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.15.10.tgz#85c2f8446e9b1fe04fae68daceacba033eedbd42"
   integrity sha512-N7wBhfJ/E5fzn/SpNgX+oW2RLRjwaL8Y0ezqNqhjD6w0H2p0rDuEz2FKZqpqLnO8DCaWumKe8dsC/ljvVSSxng==
@@ -997,9 +997,9 @@ lru-cache@^6.0.0:
     yallist "^4.0.0"
 
 magic-string@^0.26.3:
-  version "0.26.5"
-  resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.26.5.tgz#3ceb5c60f546ba4e21e3865ab8de4d32bd8ed07f"
-  integrity sha512-yXUIYOOQnEHKHOftp5shMWpB9ImfgfDJpapa38j/qMtTj5QHWucvxP4lUtuRmHT9vAzvtpHkWKXW9xBwimXeNg==
+  version "0.26.6"
+  resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.26.6.tgz#b61e417c9f40b7b53bf7e73c0a803258e20d25ee"
+  integrity sha512-6d+3bFybzyQFJYSoRsl9ZC0wheze8M1LrQC7tNMRqXR4izUTDOLMd9BtSuExK9iAukFh+s5K0WAhc/dlQ+HKYA==
   dependencies:
     sourcemap-codec "^1.4.8"
 
@@ -1199,9 +1199,9 @@ semver@^6.0.0:
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
 
 semver@^7.3.7:
-  version "7.3.7"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.7.tgz#12c5b649afdbf9049707796e22a4028814ce523f"
-  integrity sha512-QlYTucUYOews+WeEujDoEGziz4K6c47V/Bd+LjSSYcA94p+DmINdf7ncaUinThfvZyu13lN9OY1XDxt8C0Tw0g==
+  version "7.3.8"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.8.tgz#07a78feafb3f7b32347d725e33de7e2a2df67798"
+  integrity sha512-NB1ctGL5rlHrPJtFDVIVzTyQylMLu9N9VICA6HSFJo8MCGVTMW6gfpicwKmmK/dAjTOrqu5l63JJOpDSrAis3A==
   dependencies:
     lru-cache "^6.0.0"
 
@@ -1287,12 +1287,12 @@ universalify@^2.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-vite@3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.4.tgz#b75824b819d8354a6f36e4b988943c7e4947e155"
-  integrity sha512-JoQI08aBjY9lycL7jcEq4p9o1xUjq5aRvdH4KWaXtkSx7e7RpAh9D3IjzDWRD4Fg44LS3oDAIOG/Kq1L+82psA==
+vite@3.1.6:
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.6.tgz#4c6db3000326342c918204a42a130fb3ffed2414"
+  integrity sha512-qMXIwnehvvcK5XfJiXQUiTxoYAEMKhM+jqCY6ZSTKFBKu1hJnAKEzP3AOcnTerI0cMZYAaJ4wpW1wiXLMDt4mA==
   dependencies:
-    esbuild "^0.15.6"
+    esbuild "^0.15.9"
     postcss "^8.4.16"
     resolve "^1.22.1"
     rollup "~2.78.0"
