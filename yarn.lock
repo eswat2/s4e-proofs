@@ -197,9 +197,9 @@
   integrity sha512-HGRu+48ErJjoweR5IbcixxETRewrBb0uxQBd6xFGcxbEYCX8CnQFTAmKI5xNaIt2PKaZiJH3ijodGSqbKdsxhw==
 
 "@cspell/dict-html@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-html/-/dict-html-4.0.0.tgz#134e549c5245d86fd08df7c6536478ff272b4c8a"
-  integrity sha512-UQRolrzTTMS3Ja1qkrdERnqG04qqwqp4vbMV+BLKvR0oiibfH56Dfnx/qz/C5KgFLc48GLGXLALjgCiHtPjPiA==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-html/-/dict-html-4.0.1.tgz#bbda95c7b22f290028d0a164ad30892f8ef178da"
+  integrity sha512-q5fCzkoOz+8BW79qLrnANEDnG+Jb2WS2fXERxg9xwgKBXwXUxH8ttGVNhfkLpNWe/UMm00U1IZMnVGyYLNTO5w==
 
 "@cspell/dict-java@^5.0.2":
   version "5.0.2"
@@ -1243,10 +1243,10 @@ svelte-hmr@^0.15.0:
   resolved "https://registry.yarnpkg.com/svelte-hmr/-/svelte-hmr-0.15.0.tgz#c8304b5dd33f006415329d91470761d19417a324"
   integrity sha512-Aw21SsyoohyVn4yiKXWPNCSW2DQNH/76kvUnE9kpt4h9hcg9tfyQc6xshx9hzgMfGF0kVx0EGD8oBMWSnATeOg==
 
-svelte@3.52.0:
-  version "3.52.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.52.0.tgz#08259eff20904c63882b66a5d409a55e8c6743b8"
-  integrity sha512-FxcnEUOAVfr10vDU5dVgJN19IvqeHQCS1zfe8vayTfis9A2t5Fhx+JDe5uv/C3j//bB1umpLJ6quhgs9xyUbCQ==
+svelte@3.53.0:
+  version "3.53.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.53.0.tgz#e07cdd458f89ec47508ffac20c97a778516026a3"
+  integrity sha512-QwR6zwpcdpz5OqybIHlghM+qP2qKbzsKQuU9npgAmnI6zoTDIcjbcseUZA0AJGbotorltpQ0f413euKK4w+Piw==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
