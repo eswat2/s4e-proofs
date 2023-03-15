@@ -1322,10 +1322,10 @@ svelte-hmr@^0.15.1:
   resolved "https://registry.yarnpkg.com/svelte-hmr/-/svelte-hmr-0.15.1.tgz#d11d878a0bbb12ec1cba030f580cd2049f4ec86b"
   integrity sha512-BiKB4RZ8YSwRKCNVdNxK/GfY+r4Kjgp9jCLEy0DuqAKfmQtpL38cQK3afdpjw4sqSs4PLi3jIPJIFp259NkZtA==
 
-svelte@3.56.0:
-  version "3.56.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.56.0.tgz#0fe159e2e342cc3d430c7ff219315d1ea681c7b4"
-  integrity sha512-LvXiJbjdvJKwB/0CQyYpDX0q+hFqCyWmybzC2G6eK1tJJA/RSRCytTfNmjHv+RHlLuA70vWG7nXp6gbeErYvRA==
+svelte@3.57.0:
+  version "3.57.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.57.0.tgz#a3969cfe51f25f2a55e75f7b98dbd02c3af0980b"
+  integrity sha512-WMXEvF+RtAaclw0t3bPDTUe19pplMlfyKDsixbHQYgCWi9+O9VN0kXU1OppzrB9gPAvz4NALuoca2LfW2bOjTQ==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
