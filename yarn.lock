@@ -106,9 +106,9 @@
   integrity sha512-8czAa/Mh96wu2xr0RXQEGMTBUGkTvYn/Pb0o+gqOO1YW+poXGQc3gx0YPqILDryP/KCERrNvkWUJz3iGbvwC2A==
 
 "@cspell/dict-companies@^3.0.9":
-  version "3.0.11"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.11.tgz#48de9f227f70da699313a137fd02b867503845b2"
-  integrity sha512-HkYT9kTwy/gdrgoI860aOjQr3l6SUIoCeGwmt5Ct80hcwkXSRYb9VZv5jVlh9LVBY6/r3LnQBymnErK691ZUKg==
+  version "3.0.12"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.0.12.tgz#b5b89aa0d9f41ad6a22e8c3ebae65933a8ae225d"
+  integrity sha512-JZlTFHXMShWfDT8zKhXk2xv+/Wam2j4/Au7QvHwkjTWKgAgc6DMRy9mgI09IJ2zNouM5O0mE+M5OdJvJasXHQQ==
 
 "@cspell/dict-cpp@^5.0.2":
   version "5.0.3"
@@ -266,9 +266,9 @@
   integrity sha512-baKkbs/WGEV2lCWZoL0KBPh3uiPcul5GSDwmXEBAsR5McEW52LF94/b7xWM0EmSAc/y8ODc5LnPYC7RDRLi6LQ==
 
 "@cspell/dict-python@^4.0.2":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.0.5.tgz#11e1b6b93be3c7b31b29f2cabc7e0195a98a9773"
-  integrity sha512-nG2TxPAMYm368KnZBQI7MPirtazOXBmcQ2NQsv2ITTsXuAnJfKdzPnW/4/1iZl8+VBl00NsqPadByiTXqlqXvA==
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-python/-/dict-python-4.0.6.tgz#e007d02833fc857dd80594d9570a2226fd0f8525"
+  integrity sha512-24AhYyTZdOTLqkoiwXlEZrqEHkOwmePWQqRc9YigV9X69EtzBMrdMhYBvkJCVnQZD2ckT05U3A36YFYaxZ39Pg==
 
 "@cspell/dict-r@^2.0.1":
   version "2.0.1"
@@ -291,9 +291,9 @@
   integrity sha512-ph0twaRoV+ylui022clEO1dZ35QbeEQaKTaV2sPOsdwIokABPIiK09oWwGK9qg7jRGQwVaRPEq0Vp+IG1GpqSQ==
 
 "@cspell/dict-software-terms@^3.1.6":
-  version "3.1.9"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.9.tgz#7da90664a11d43266d7ce956611c4262cb218093"
-  integrity sha512-WEAkj0h51R38O2Q2r/EyFbk6tBo+XSF0JloY7h4G7CI9lmJo0XkRfN2aSaA3oY+nshftxp/IQF2MfVwo3eyZ/g==
+  version "3.1.10"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-3.1.10.tgz#030a13679a543c5a0914d1f8bd53f2c29b69d8e6"
+  integrity sha512-BWzpmXeNehVbn5ZgEvx/gNZrLt+yyQEU4lQkV+ojg9Os5fCIoVBL1tAGFH1ljDhk625b7zAqFwtS5XseYNUlbA==
 
 "@cspell/dict-sql@^2.1.0":
   version "2.1.0"
@@ -475,10 +475,10 @@
   dependencies:
     debug "^4.3.4"
 
-"@sveltejs/vite-plugin-svelte@2.3.0":
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-2.3.0.tgz#a8055e73678359166b80151aa0a958a97278dcb7"
-  integrity sha512-NbgDn5/auWfGYFip7DheDj49/JLE6VugdtdLJjnQASYxXqrQjl81xaZzQsoSAxWk+j2mOkmPFy56gV2i63FUnA==
+"@sveltejs/vite-plugin-svelte@2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@sveltejs/vite-plugin-svelte/-/vite-plugin-svelte-2.4.0.tgz#11c9535b77b0b9c4c81371cc83854b7a3ccbb698"
+  integrity sha512-OdKTMNZTb4OPrXY0IAJiOG5krQcgEaDtqjLNFj5KInyzn3/HNVuXx9egAneMMhStqk1K5Nf7DIG40e9HeBxeOA==
   dependencies:
     "@sveltejs/vite-plugin-svelte-inspector" "^1.0.1"
     debug "^4.3.4"
@@ -1323,10 +1323,10 @@ unique-string@^2.0.0:
   dependencies:
     crypto-random-string "^2.0.0"
 
-vite@4.3.8:
-  version "4.3.8"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.8.tgz#70cd6a294ab52d7fb8f37f5bc63d117dd19e9918"
-  integrity sha512-uYB8PwN7hbMrf4j1xzGDk/lqjsZvCDbt/JC5dyfxc19Pg8kRm14LinK/uq+HSLNswZEoKmweGdtpbnxRtrAXiQ==
+vite@4.3.9:
+  version "4.3.9"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.9.tgz#db896200c0b1aa13b37cdc35c9e99ee2fdd5f96d"
+  integrity sha512-qsTNZjO9NoJNW7KnOrgYwczm0WctJ8m/yqYAMAK9Lxt4SoySUfS5S8ia9K7JHpa3KEeMfyF8LoJ3c5NeBJy6pg==
   dependencies:
     esbuild "^0.17.5"
     postcss "^8.4.23"
