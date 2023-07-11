@@ -21,6 +21,6 @@
     "prettier-plugin-svelte": "2.10.1",
     "rangetouch": "2.0.1",
     "svelte": "4.0.5",
-    "vite": "4.4.2"
+    "vite": "4.4.3"
   }
 }
