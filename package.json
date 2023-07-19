@@ -9,8 +9,8 @@
     "test": "echo skipping...",
     "predeploy": "yarn build; yarn version --patch",
     "deploy": "cd dist; ln -s ../.now .vercel; vc --prod",
-    "cc": "prettier --check src/*/*.{css,js,svelte}",
-    "format": "prettier --write src/*/*.{css,js,svelte}",
+    "cc": "prettier --check './src/**/*.{css,js,ts,svelte}'",
+    "format": "prettier --write './src/**/*.{css,js,ts,svelte}'",
     "spell": "cspell 'src/**/*.{js,svelte}'",
     "open": "open https://s4e-proofs.vercel.app"
   },
