@@ -1,11 +1,11 @@
 <script>
-  import Toggle from "./Toggle.svelte"
-  import { navy } from "../utils"
+  import Toggle from './Toggle.svelte';
+  import { navy } from '../utils';
 
-  export let size = undefined
+  export let size = undefined;
 
   // NOTE:  this is loaded on the toplevel page... [ see index.html ]
-  const Keys = window.protoIkons.icons.filter((key) => key !== "slug")
+  const Keys = window.protoIkons.icons.filter(key => key !== 'slug');
 </script>
 
 <div class="proofs">

@@ -1,6 +1,6 @@
 <script>
-  let url = "https://eswat2.github.io"
-  let who = "eswat2"
+  let url = 'https://eswat2.github.io';
+  let who = 'eswat2';
 </script>
 
 <a href={url} class="eswat2" aria-label={who} title={who}>
