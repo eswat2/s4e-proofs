@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "2.4.6",
-    "cspell": "7.3.8",
+    "cspell": "8.0.0",
     "prettier": "3.0.3",
     "prettier-plugin-svelte": "3.0.3",
     "rangetouch": "2.0.1",
