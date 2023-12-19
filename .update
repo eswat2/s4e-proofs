@@ -23,6 +23,6 @@ else
   git commit -a -m "bump $VERSION"
   git push
   yarn deploy
-  printf "%s %s.%s \n" $PROD $APP $HOST
+  echo "$PROD $APP.$HOST"
   git push
 fi
