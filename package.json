@@ -18,7 +18,7 @@
     "@sveltejs/vite-plugin-svelte": "3.1.2",
     "cspell": "8.14.4",
     "prettier": "3.3.3",
-    "prettier-plugin-svelte": "3.2.6",
+    "prettier-plugin-svelte": "3.2.7",
     "rangetouch": "2.0.1",
     "svelte": "4.2.19",
     "vite": "5.4.8"
