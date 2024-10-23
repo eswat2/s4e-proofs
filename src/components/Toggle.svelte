@@ -1,33 +1,33 @@
 <script>
-  export let key = undefined;
-  export let size = undefined;
+  let { key, size } = $props();
 
-  let selected = false;
+  let selected = $state(false)
+  let color = $state('navy')
 
   const handleClick = () => {
     selected = !selected;
+    color = selected ? 'red' : 'navy';
   };
 </script>
 
 <div
-  class="ikon"
-  on:click={handleClick}
+  class={`ikon ${color}`}
+  onclick={handleClick}
   width={size}
   height={size}
   title={key}
   role="button"
   aria-label="title"
-  {selected}
 >
   <proto-ikon-loader name={key} {size} {selected}></proto-ikon-loader>
 </div>
 
 <style>
-  .ikon {
+  .navy {
     color: var(--clrs-navy);
   }
 
-  .ikon[selected='true'] {
+  .red {
     color: var(--clrs-red);
   }
 </style>
