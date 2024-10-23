@@ -19,7 +19,7 @@
   aria-label="title"
   {selected}
 >
-  <proto-ikon-loader name={key} {size} {selected} />
+  <proto-ikon-loader name={key} {size} {selected}></proto-ikon-loader>
 </div>
 
 <style>

@@ -4,7 +4,7 @@
 </script>
 
 <a href={url} class="eswat2" aria-label={who} title={who}>
-  <proto-ikon-loader name="fingerprint" size="24" label="eswat2" />
+  <proto-ikon-loader name="fingerprint" size="24" label="eswat2"></proto-ikon-loader>
 </a>
 
 <style>
