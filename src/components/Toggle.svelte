@@ -2,11 +2,10 @@
   let { key, size } = $props();
 
   let selected = $state(false)
-  let color = $state('navy')
+  let color = $derived(selected ? 'red' : 'navy')
 
   const handleClick = () => {
     selected = !selected;
-    color = selected ? 'red' : 'navy';
   };
 </script>
 
