@@ -12,7 +12,7 @@
 <div
   class={`ikon ${color}`}
   onclick={handleClick}
-  onkeypress={e => e.key === 'Enter' && handleClick()}
+  onkeydown={e => e.key === 'Enter' && handleClick()}
   width={size}
   height={size}
   title={key}
