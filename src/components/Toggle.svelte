@@ -12,10 +12,12 @@
 <div
   class={`ikon ${color}`}
   onclick={handleClick}
+  onkeypress={e => e.key === 'Enter' && handleClick()}
   width={size}
   height={size}
   title={key}
   role="button"
+  tabindex="0"
   aria-label="title"
 >
   <proto-ikon-loader name={key} {size} {selected}></proto-ikon-loader>
