@@ -348,9 +348,9 @@
   integrity sha512-tl0YWAfjUVb4LyyE4JIMVE8DlLzb1ecHRmIWc4eT6nkyDqQgHKzdHsnusxFEFMVLIQomgSg0Zz6hJ5S1E4W4ww==
 
 "@cspell/dict-software-terms@^4.1.13":
-  version "4.1.15"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-4.1.15.tgz#4a158c27d0c5c369c3cfd8f36150f110743d8d7c"
-  integrity sha512-mxX6jIDA6u7BkR2NkxycA+hf41LsaaQTN/9a6hY2UK9vwNS1cAgAIxUr7YDGU3kZ3sqg58XOYX/KFw/PJtMRmQ==
+  version "4.1.16"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-4.1.16.tgz#58d2675607c35cb3a863f6a7fa21e92952330599"
+  integrity sha512-3KHpurStLRLZhZYRqD3r6stWmC0BFFBdh8/pIbj204R5pIJOVUNjmcruvufaTAyuoNEeITpy54UUsYKO03YM6w==
 
 "@cspell/dict-sql@^2.1.8":
   version "2.1.8"
@@ -1179,10 +1179,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.2.0.tgz#ba5c909947dbf0f929e3b097000fe09b7920f5bb"
-  integrity sha512-LOowFhMB0CoTzDsa90snaICFMftrxKlYsOhH4YP1AamjCSDBZvtDq0yB5QY8LJA1tFftcmpAhmLCK/gAOFNrtw==
+svelte@5.2.2:
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.2.2.tgz#a9d28dd6942e59f303298902c546909161452b45"
+  integrity sha512-eHIJRcvA6iuXdRGMESTmBtWTQCcCiol4gyH9DA60ybS35W1x27cvtbndNvWDqX72blyf+AYeQ4gzZ0XGg3L8sw==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
