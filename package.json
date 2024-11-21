@@ -1,6 +1,6 @@
 {
   "name": "svelte-app",
-  "version": "0.0.782",
+  "version": "0.0.783",
   "type": "module",
   "scripts": {
     "dev": "vite",
