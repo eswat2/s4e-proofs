@@ -226,9 +226,9 @@
   integrity sha512-LSxB+psZ0qoj83GkyjeEH/ZViyVsGEF/A6BAo8Nqc0w0HjD2qX/QR4sfA6JHUgQ3Yi/ccxdK7xNIo67L2ScW5A==
 
 "@cspell/dict-golang@^6.0.16":
-  version "6.0.16"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-golang/-/dict-golang-6.0.16.tgz#b247a801404f9a65e7c8674893bdb5aad42353a2"
-  integrity sha512-hZOBlgcguv2Hdc93n2zjdAQm1j3grsN9T9WhPnQ1wh2vUDoCLEujg+6gWhjcLb8ECOcwZTWgNyQLWeOxEsAj/w==
+  version "6.0.17"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-golang/-/dict-golang-6.0.17.tgz#8f3c11189b869db7216cb4496514b9882d1e30a5"
+  integrity sha512-uDDLEJ/cHdLiqPw4+5BnmIo2i/TSR+uDvYd6JlBjTmjBKpOCyvUgYRztH7nv5e7virsN5WDiUWah4/ATQGz4Pw==
 
 "@cspell/dict-google@^1.0.4":
   version "1.0.4"
@@ -1112,10 +1112,10 @@ postcss@^8.4.43:
     picocolors "^1.1.1"
     source-map-js "^1.2.1"
 
-prettier-plugin-svelte@3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.3.1.tgz#ca64ed31008bb7615508973c39bd1f83ad584754"
-  integrity sha512-AIKwXYBGm+f0l0DUcQRWjeQj8xm1cVBIZGshvlfiCuesEfueF1TGqz88NP0cr95Ar7Xvt0Ef7h9LFzGdkHr+gA==
+prettier-plugin-svelte@3.3.2:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.3.2.tgz#f0c0b023a697f5cb43fb7257170e3d8762b547c6"
+  integrity sha512-kRPjH8wSj2iu+dO+XaUv4vD8qr5mdDmlak3IT/7AOgGIMRG86z/EHOLauFcClKEnOUf4A4nOA7sre5KrJD4Raw==
 
 prettier@3.3.3:
   version "3.3.3"
