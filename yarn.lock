@@ -912,9 +912,9 @@ esbuild@^0.24.0:
     "@esbuild/win32-x64" "0.24.0"
 
 esm-env@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.2.0.tgz#637c0586244c0eb14bfd7f5e96a6b43b9e8f5c2b"
-  integrity sha512-OhSQuHL3mUcaQHjGe8UMG8GsJIJHYYz0flR0h9fiTPNMupLMkb7TvcRD0EeJXW5a8GHBgfz08b6FDLNK7kkPQA==
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/esm-env/-/esm-env-1.2.1.tgz#34c2a0ba60582948afbe7bd779bc66f9d3aece7e"
+  integrity sha512-U9JedYYjCnadUlXk7e1Kr+aENQhtUaoaV9+gZm1T8LC/YBAPJx3NSPIAurFOC0U5vrdSevnUJS2/wUVxGwPhng==
 
 esprima@^4.0.1:
   version "4.0.1"
@@ -1185,10 +1185,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.2.10:
-  version "5.2.10"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.2.10.tgz#d35399550de09e86f5344fe8e221c667bbbac68e"
-  integrity sha512-ON0OyO7vOmSjTc9mLjusu3vf1I7BvjovbiRB7j84F1WZMXV6dR+Tj4btIzxQxMHfzbGskaFmRa7qjgmBSVBnhQ==
+svelte@5.2.11:
+  version "5.2.11"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.2.11.tgz#aeba2d0fb8017d2769682ffe321c15b3db10f157"
+  integrity sha512-rAVKne02inlyw//aD1QXuUbxDBNnyW6sagS7JfxzUbGVuJnHrf2WfQdJDYlBq8mOz8NBGQAZdD6KEITd0NUDtA==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
