@@ -1123,10 +1123,10 @@ prettier-plugin-svelte@3.3.2:
   resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-3.3.2.tgz#f0c0b023a697f5cb43fb7257170e3d8762b547c6"
   integrity sha512-kRPjH8wSj2iu+dO+XaUv4vD8qr5mdDmlak3IT/7AOgGIMRG86z/EHOLauFcClKEnOUf4A4nOA7sre5KrJD4Raw==
 
-prettier@3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.1.tgz#e211d451d6452db0a291672ca9154bc8c2579f7b"
-  integrity sha512-G+YdqtITVZmOJje6QkXQWzl3fSfMxFwm1tjTyo9exhkmWSqC4Yhd1+lug++IlR2mvRVAxEDDWYkQdeSztajqgg==
+prettier@3.4.2:
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
+  integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
 
 rangetouch@2.0.1:
   version "2.0.1"
@@ -1185,10 +1185,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.5.2:
-  version "5.5.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.5.2.tgz#9ca0d8b7907243af646098c1e2a61294bf606c6d"
-  integrity sha512-ZBVFfZuN5HOIWmpp1Hi0x2PL2CS4cw880quk479mSdQ9avpAEFcKvbYWZuKt/j01YQz5i0tfIUDCY2hMDB+KKg==
+svelte@5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.6.0.tgz#e8341bd7f1f972609695769a5b3a08768dda519d"
+  integrity sha512-/rAlFnA7kDtNYN3v4oKKcS6q7oJE1OlFUWiELvo0RcMJsVXAuRzbBrnIphx45AbdEIETZMde7TJgRb/P1RwAyA==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
