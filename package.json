@@ -15,12 +15,12 @@
     "open": "open https://s4e-proofs.vercel.app"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "5.0.1",
+    "@sveltejs/vite-plugin-svelte": "5.0.2",
     "cspell": "8.16.1",
     "prettier": "3.4.2",
     "prettier-plugin-svelte": "3.3.2",
     "rangetouch": "2.0.1",
-    "svelte": "5.11.1",
+    "svelte": "5.11.2",
     "vite": "6.0.3"
   }
 }
