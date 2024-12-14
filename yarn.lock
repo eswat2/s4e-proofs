@@ -121,9 +121,9 @@
   integrity sha512-I2CM2pTNthQwW069lKcrVxchJGMVQBzru2ygsHCwgidXRnJL/NTjAPOFTxN58Jc1bf7THWghfEDyKX/oyfc0yg==
 
 "@cspell/dict-companies@^3.1.7":
-  version "3.1.7"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.1.7.tgz#c9abd6f5293f103062f54dde01f2bee939189f79"
-  integrity sha512-ncVs/efuAkP1/tLDhWbXukBjgZ5xOUfe03neHMWsE8zvXXc5+Lw6TX5jaJXZLOoES/f4j4AhRE20jsPCF5pm+A==
+  version "3.1.8"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.1.8.tgz#990d4cd3d478bde139d8ea196485ee95d8e3897a"
+  integrity sha512-4DVPBwEPWa97g3bgg80i3orGeOGnOiJ7tj3c7n6y7FmqkEgyXcnpxOq0n0HWzwRrwrJp9KIJbtMzSAEynIwyNw==
 
 "@cspell/dict-cpp@^6.0.2":
   version "6.0.2"
@@ -216,9 +216,9 @@
   integrity sha512-62PbndIyQPH11mAv0PyiyT0vbwD0AXEocPpHlCHzfb5v9SspzCCbzQ/LIBiFmyRa+q5LMW35CnSVu6OXdT+LKg==
 
 "@cspell/dict-gaming-terms@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-gaming-terms/-/dict-gaming-terms-1.0.8.tgz#fb8a737f61e7cf560b4de7b2aaeae952f2550398"
-  integrity sha512-7OL0zTl93WFWhhtpXFrtm9uZXItC3ncAs8d0iQDMMFVNU1rBr6raBNxJskxE5wx2Ant12fgI66ZGVagXfN+yfA==
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-gaming-terms/-/dict-gaming-terms-1.0.9.tgz#6b920386d281b89f70857e6dacea10ab89e88658"
+  integrity sha512-AVIrZt3YiUnxsUzzGYTZ1XqgtkgwGEO0LWIlEf+SiDUEVLtv4CYmmyXFQ+WXDN0pyJ0wOwDazWrP0Cu7avYQmQ==
 
 "@cspell/dict-git@^3.0.3":
   version "3.0.3"
@@ -301,9 +301,9 @@
   integrity sha512-7NbCS2E8ZZRZwlLrh2sA0vAk9n1kcTUiRp/Nia8YvKaItGXLfxYqD2rMQ3HpB1kEutal6hQLVic3N2Yi1X7AaA==
 
 "@cspell/dict-npm@^5.1.14":
-  version "5.1.16"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-5.1.16.tgz#758c04fd84cc72dd0515dee16b0ecb8874d441d2"
-  integrity sha512-9z0YLQIu88pC6BOMbHUYksXoSyhzwWvZa9XVvN/1rGMov1kTgStr2QDvsBpECk3AIamzZnahKIyUvJrr+rOkYg==
+  version "5.1.17"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-5.1.17.tgz#7c106fd351321745dfd52b553cd97f8beacf1cee"
+  integrity sha512-RBx4yml+GbjgqmV2R9A8rO+uqjb8hV9arZXxVzW04TNdgGT/VjZnu6/3/QDzEp3DxnbSxknAbIii8BzpF/o5EQ==
 
 "@cspell/dict-php@^4.0.13":
   version "4.0.13"
@@ -348,9 +348,9 @@
   integrity sha512-tl0YWAfjUVb4LyyE4JIMVE8DlLzb1ecHRmIWc4eT6nkyDqQgHKzdHsnusxFEFMVLIQomgSg0Zz6hJ5S1E4W4ww==
 
 "@cspell/dict-software-terms@^4.1.17":
-  version "4.1.18"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-4.1.18.tgz#99acefeef7deb0ae109e2a6dd73469274384a1c4"
-  integrity sha512-QhOQ3qVFr2Y+uDw2SH15klVNU2S07ecFhG+2gpTO/K4Kuaui3INbVrzHOKW41ofP3ghv9y2TkUUtOP5KfddP8A==
+  version "4.1.19"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-4.1.19.tgz#aa7b758e84d79c931b18facbeb91e89f44063978"
+  integrity sha512-6yQa3A8PGa2fJ7bnLI21nBnOa89Rjckdgq8kwvqvZgrAptV/KLfcXbGgFriICbu3GJqTVcnMMh1fLtz+pdwIEg==
 
 "@cspell/dict-sql@^2.1.8":
   version "2.1.8"
@@ -1191,10 +1191,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.12.0:
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.12.0.tgz#1758d66794076ec540da54ab9fe5d643d4b9e17f"
-  integrity sha512-nOd7uj0D/4A3IrHnltaFYndVPGViYSs0s+Zi3N4uQg3owJt9RoiUdwxYx8qjorj5CtaGsx8dNYsFVbH6czrGNg==
+svelte@5.13.0:
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.13.0.tgz#15ecf6522b27e6c95041ca8a63684d5c903c54e4"
+  integrity sha512-ZG4VmBNze/j2KxT2GEeUm8Jr3RLYQ3P5Y9/flUDCgaAxgzx4ZRTdiyh+PCr7qRlOr5M8uidIqr+3DwUFVrdL+A==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
