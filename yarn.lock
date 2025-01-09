@@ -946,9 +946,9 @@ esprima@^4.0.1:
   integrity sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==
 
 esrap@^1.3.2:
-  version "1.3.3"
-  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.3.3.tgz#5cbb10d09baf11acc48546f6392aea4093a4245f"
-  integrity sha512-zO/nCAXn5Bzl5xaqoCuvsJdUgYSawQ1FWN5OZrvFy9DYtVa8EKiyOBmGibnf3dAHr/m5aeD76bPIB72CKH1YvQ==
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/esrap/-/esrap-1.3.4.tgz#8f04b180e8c7195bffc285c00a6e1e661c643882"
+  integrity sha512-rPdYs3pFlqgKywaT5iAC/cpshA/M4ZJJ/JuQWb+UQDhRd6CMsVTGXMZMi7qafeihn0kCHK7gH1XuMZjqXXGr5w==
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.15"
 
@@ -1209,10 +1209,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.17.2:
-  version "5.17.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.17.2.tgz#d97f02f37bba37708436cea71507020ba001e7b9"
-  integrity sha512-gCmHIPY8gW2GF0t59vkkJJgEDo6cf3ygvA62wHn6PBCRSZgJa35tOJsVO0PT1u0ulJhNjTx2y5k8pgutTtxhlQ==
+svelte@5.17.3:
+  version "5.17.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.17.3.tgz#cb17151f1e725d2c9b483ff8e9ca1a3dcfa59a72"
+  integrity sha512-eLgtpR2JiTgeuNQRCDcLx35Z7Lu9Qe09GPOz+gvtR9nmIZu5xgFd6oFiLGQlxLD0/u7xVyF5AUkjDVyFHe6Bvw==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
