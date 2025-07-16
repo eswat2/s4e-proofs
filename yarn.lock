@@ -1186,10 +1186,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.36.2:
-  version "5.36.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.36.2.tgz#324a7fc7647f10375c9e455582ba1e6414c316c8"
-  integrity sha512-yHthOlJZkB4zRS41JgUSdqpytw88UVr/txXcQKLy0QKwG0HVYP6VDgOEDUWlfTOlA5oYgAcjmk4TtjDuzoQliQ==
+svelte@5.36.3:
+  version "5.36.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.36.3.tgz#c0e113d937975e35bbc1cff6f85832e51405255c"
+  integrity sha512-0NsgzxP60BXZ0SDAJzFb4CEIuHK5Qtubx69bVSDSORvS053+IZqA+wKK1b742US4eCuKo1KJOu7sAB+vRpK9JQ==
   dependencies:
     "@ampproject/remapping" "^2.3.0"
     "@jridgewell/sourcemap-codec" "^1.5.0"
