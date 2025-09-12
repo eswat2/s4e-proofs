@@ -569,9 +569,9 @@
   integrity sha512-cYQ9310grqxueWbl+WuIUIaiUaDcj7WOq5fVhEljNVgRfOUhY9fy2zTvfoqWsnebh8Sl70VScFbICvJnLKB0Og==
 
 "@jridgewell/trace-mapping@^0.3.24":
-  version "0.3.30"
-  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.30.tgz#4a76c4daeee5df09f5d3940e087442fb36ce2b99"
-  integrity sha512-GQ7Nw5G2lTu/BtHTKfXhKHok2WGetd4XYcVKGx00SjAk8GMwgJM3zr6zORiPGuOE+/vkc90KtTosSSvaCjKb2Q==
+  version "0.3.31"
+  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.31.tgz#db15d6781c931f3a251a3dac39501c98a6082fd0"
+  integrity sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw==
   dependencies:
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
@@ -760,9 +760,9 @@ clsx@^2.1.1:
   integrity sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==
 
 commander@^14.0.0:
-  version "14.0.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-14.0.0.tgz#f244fc74a92343514e56229f16ef5c5e22ced5e9"
-  integrity sha512-2uM9rYjPvyq39NwLRqaiLtWHyDC1FvryJDa2ATTVims5YAS4PupsEQsDvP14FqhFr0P49CYDugi59xaxJlTXRA==
+  version "14.0.1"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-14.0.1.tgz#2f9225c19e6ebd0dc4404dd45821b2caa17ea09b"
+  integrity sha512-2JkV3gUZUVrbNA+1sjBOYLsMZ5cEEl8GTFP2a4AVz5hvasAMCQ1D2l2le/cX+pV4N6ZU17zjUahLpIXRrnWL8A==
 
 comment-json@^4.2.5:
   version "4.2.5"
@@ -1159,10 +1159,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-svelte@5.38.8:
-  version "5.38.8"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.38.8.tgz#9d6f48f3d05a0ec569de1a04b3d7dc908bfa6556"
-  integrity sha512-UDpTbM/iuZ4MaMnn4ODB3rf5JKDyPOi5oJcopP0j7YHQ9BuJtsAqsR71r2N6AnJf7ygbalTJU5y8eSWGAQZjlQ==
+svelte@5.38.10:
+  version "5.38.10"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-5.38.10.tgz#1e60d4335db88f644323a14ef7357bef2c287247"
+  integrity sha512-UY+OhrWK7WI22bCZ00P/M3HtyWgwJPi9IxSRkoAE2MeAy6kl7ZlZWJZ8RaB+X4KD/G+wjis+cGVnVYaoqbzBqg==
   dependencies:
     "@jridgewell/remapping" "^2.3.4"
     "@jridgewell/sourcemap-codec" "^1.5.0"
