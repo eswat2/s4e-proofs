@@ -4,3 +4,6 @@
 .DS_Store
 .eslintcache
 .now
+
+.vercel
+yarn.lock
