@@ -7,6 +7,7 @@
   },
   "scripts": {
     "dev": "vite",
+    "prebuild": "echo skipping yarn format",
     "build": "vite build",
     "serve": "vite preview",
     "test": "echo skipping...",
