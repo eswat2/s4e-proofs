@@ -35,6 +35,9 @@ importers:
       vite:
         specifier: 7.3.1
         version: 7.3.1(jiti@2.6.1)(yaml@2.8.2)
+      yoctocolors:
+        specifier: 2.1.2
+        version: 2.1.2
 
 packages:
 
@@ -1029,6 +1032,10 @@ packages:
     engines: {node: '>= 14.6'}
     hasBin: true
 
+  yoctocolors@2.1.2:
+    resolution: {integrity: sha512-CzhO+pFNo8ajLM2d2IW/R93ipy99LWjtwblvC1RsoSUMZgyLbYFr221TnSNT7GjGdYui6P459mw9JH/g/zW2ug==}
+    engines: {node: '>=18'}
+
   zimmerframe@1.1.4:
     resolution: {integrity: sha512-B58NGBEoc8Y9MWWCQGl/gq9xBCe4IiKM0a2x7GZdQKOW5Exr8S1W24J6OgM1njK8xCRGvAJIL/MxXHf6SkmQKQ==}
 
@@ -1892,5 +1899,7 @@ snapshots:
   xdg-basedir@5.1.0: {}
 
   yaml@2.8.2: {}
+
+  yoctocolors@2.1.2: {}
 
   zimmerframe@1.1.4: {}

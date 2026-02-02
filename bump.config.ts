@@ -1,5 +1,6 @@
 // bump.config.ts
 import { defineConfig } from 'bumpp'
+import { red, green } from 'yoctocolors'
 
 export default defineConfig({
   // enable git operations by default if you like
@@ -15,6 +16,6 @@ export default defineConfig({
     const oldVersion = op.state?.currentVersion
     const newVersion = op.state?.newVersion
 
-    console.log(`version: ${oldVersion} → ${newVersion}`)
+    console.log(`version: ${red(oldVersion)} → ${green(newVersion)}`)
   },
 })
