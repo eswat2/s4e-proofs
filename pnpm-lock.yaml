@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.0.0
-        version: 7.0.0(svelte@5.53.5)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))
+        version: 7.0.0(svelte@5.53.6)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))
       bumpp:
         specifier: 10.4.1
         version: 10.4.1
@@ -25,13 +25,13 @@ importers:
         version: 3.8.1
       prettier-plugin-svelte:
         specifier: 3.5.0
-        version: 3.5.0(prettier@3.8.1)(svelte@5.53.5)
+        version: 3.5.0(prettier@3.8.1)(svelte@5.53.6)
       rangetouch:
         specifier: 2.0.1
         version: 2.0.1
       svelte:
-        specifier: 5.53.5
-        version: 5.53.5
+        specifier: 5.53.6
+        version: 5.53.6
       vite:
         specifier: 7.3.1
         version: 7.3.1(jiti@2.6.1)(yaml@2.8.2)
@@ -231,8 +231,8 @@ packages:
   '@cspell/dict-shell@1.1.2':
     resolution: {integrity: sha512-WqOUvnwcHK1X61wAfwyXq04cn7KYyskg90j4lLg3sGGKMW9Sq13hs91pqrjC44Q+lQLgCobrTkMDw9Wyl9nRFA==}
 
-  '@cspell/dict-software-terms@5.1.22':
-    resolution: {integrity: sha512-ELi8wqyDAreDpo17Pu45AuKvcrhqPCkGeL+DMuSVxEimBwEqPB+KeQ89DkVap6QDJHl3LCth0pjv8uOgS1dtdQ==}
+  '@cspell/dict-software-terms@5.1.23':
+    resolution: {integrity: sha512-YzxBeqP1j8+hg/+pmw7XHvYrQLO5ttDpZ0rqZiS7y2vnku3Cv1OQZgt9y/3SsTgcUPSCWSRHGgWfrMGqEGNB6g==}
 
   '@cspell/dict-sql@2.2.1':
     resolution: {integrity: sha512-qDHF8MpAYCf4pWU8NKbnVGzkoxMNrFqBHyG/dgrlic5EQiKANCLELYtGlX5auIMDLmTf1inA0eNtv74tyRJ/vg==}
@@ -948,8 +948,8 @@ packages:
     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
     engines: {node: '>=0.10.0'}
 
-  svelte@5.53.5:
-    resolution: {integrity: sha512-YkqERnF05g8KLdDZwZrF8/i1eSbj6Eoat8Jjr2IfruZz9StLuBqo8sfCSzjosNKd+ZrQ8DkKZDjpO5y3ht1Pow==}
+  svelte@5.53.6:
+    resolution: {integrity: sha512-lP5DGF3oDDI9fhHcSpaBiJEkFLuS16h92DhM1L5K1lFm0WjOmUh1i2sNkBBk8rkxJRpob0dBE75jRfUzGZUOGA==}
     engines: {node: '>=18'}
 
   tinyexec@1.0.2:
@@ -1089,7 +1089,7 @@ snapshots:
       '@cspell/dict-rust': 4.1.2
       '@cspell/dict-scala': 5.0.9
       '@cspell/dict-shell': 1.1.2
-      '@cspell/dict-software-terms': 5.1.22
+      '@cspell/dict-software-terms': 5.1.23
       '@cspell/dict-sql': 2.2.1
       '@cspell/dict-svelte': 1.0.7
       '@cspell/dict-swift': 2.0.6
@@ -1229,7 +1229,7 @@ snapshots:
 
   '@cspell/dict-shell@1.1.2': {}
 
-  '@cspell/dict-software-terms@5.1.22': {}
+  '@cspell/dict-software-terms@5.1.23': {}
 
   '@cspell/dict-sql@2.2.1': {}
 
@@ -1434,12 +1434,12 @@ snapshots:
     dependencies:
       acorn: 8.16.0
 
-  '@sveltejs/vite-plugin-svelte@7.0.0(svelte@5.53.5)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))':
+  '@sveltejs/vite-plugin-svelte@7.0.0(svelte@5.53.6)(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 0.30.21
       obug: 2.1.1
-      svelte: 5.53.5
+      svelte: 5.53.6
       vite: 7.3.1(jiti@2.6.1)(yaml@2.8.2)
       vitefu: 1.1.2(vite@7.3.1(jiti@2.6.1)(yaml@2.8.2))
 
@@ -1780,10 +1780,10 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-svelte@3.5.0(prettier@3.8.1)(svelte@5.53.5):
+  prettier-plugin-svelte@3.5.0(prettier@3.8.1)(svelte@5.53.6):
     dependencies:
       prettier: 3.8.1
-      svelte: 5.53.5
+      svelte: 5.53.6
 
   prettier@3.8.1: {}
 
@@ -1837,7 +1837,7 @@ snapshots:
 
   source-map-js@1.2.1: {}
 
-  svelte@5.53.5:
+  svelte@5.53.6:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.5.5
