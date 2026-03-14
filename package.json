@@ -28,7 +28,7 @@
     "prettier": "3.8.1",
     "prettier-plugin-svelte": "3.5.1",
     "rangetouch": "2.0.1",
-    "svelte": "5.53.11",
+    "svelte": "5.53.12",
     "vite": "8.0.0",
     "yoctocolors": "2.1.2"
   }
