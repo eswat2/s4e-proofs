@@ -5,6 +5,12 @@
   "engines": {
     "node": ">=18"
   },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild", 
+      "proto-tailwindcss-clrs"
+    ]
+  },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
     "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
