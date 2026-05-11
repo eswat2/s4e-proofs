@@ -5,12 +5,6 @@
   "engines": {
     "node": ">=18"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild",
-      "proto-tailwindcss-clrs"
-    ]
-  },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
     "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
@@ -32,10 +26,10 @@
     "cspell": "10.0.0",
     "only-allow": "1.2.2",
     "prettier": "3.8.3",
-    "prettier-plugin-svelte": "3.5.1",
+    "prettier-plugin-svelte": "3.5.2",
     "rangetouch": "2.0.1",
     "svelte": "5.55.5",
-    "vite": "8.0.11",
+    "vite": "8.0.12",
     "yoctocolors": "2.1.2"
   },
   "packageManager": "pnpm@11.0.9+sha512.34ce82e6780233cf9cad8685029a8f81d2e06196c5a9bad98879f7424940c6817c4e4524fb7d38b8553ceed48b9758b8ebaf1abd3600c232c4c8cf7366086f38"
