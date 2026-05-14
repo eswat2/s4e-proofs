@@ -3,5 +3,5 @@ packages:
   - 'packages/*'
 
 allowBuilds:
-  esbuild: true
-  proto-tailwindcss-clrs: true
+  'esbuild': true
+  'proto-tailwindcss-clrs': true
