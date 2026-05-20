@@ -7,4 +7,5 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - svelte@5.55.8
+  - '@sveltejs/acorn-typescript@1.0.10'
+  - svelte@5.55.9
