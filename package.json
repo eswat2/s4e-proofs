@@ -26,10 +26,10 @@
     "cspell": "10.0.1",
     "only-allow": "1.2.2",
     "prettier": "3.8.3",
-    "prettier-plugin-svelte": "4.0.1",
+    "prettier-plugin-svelte": "4.1.0",
     "rangetouch": "2.0.1",
     "svelte": "5.56.0",
-    "vite": "8.0.14",
+    "vite": "8.0.16",
     "yoctocolors": "2.1.2"
   },
   "packageManager": "pnpm@11.5.0+sha512.dbfcc4f81cf48597afd4bc391ffdf12c11f1a9fb83a395bfa6b0a2d9cc2fd8ffebafdb1ccbd529632153f793904c2615b7f09fe1a345473fd1c35845172a8eb1"
