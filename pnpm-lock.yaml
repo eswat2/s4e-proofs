@@ -21,11 +21,11 @@ importers:
         specifier: 1.2.2
         version: 1.2.2
       prettier:
-        specifier: 3.9.0
-        version: 3.9.0
+        specifier: 3.9.1
+        version: 3.9.1
       prettier-plugin-svelte:
         specifier: 4.1.1
-        version: 4.1.1(prettier@3.9.0)(svelte@5.56.4)
+        version: 4.1.1(prettier@3.9.1)(svelte@5.56.4)
       rangetouch:
         specifier: 2.0.1
         version: 2.0.1
@@ -550,8 +550,8 @@ packages:
     engines: {node: '>=4'}
     hasBin: true
 
-  esrap@2.2.12:
-    resolution: {integrity: sha512-On0QbLyaiAkVC4eXtgnXK9Kh2opit+3rcUSOc45DqJ2s/X2eXAHsGOKRSJ6IDagQEW5vPyivANfXUiqgXC67Rw==}
+  esrap@2.2.13:
+    resolution: {integrity: sha512-m8jH5hZgJE2RRUK/jjkGPcJEDAV+dYnZYFkosQaPTcE+Yw4xynXHOo6FUdwaWBtdR3b1MMa7wEDTSHeR2VWsGA==}
     peerDependencies:
       '@typescript-eslint/types': ^8.2.0
     peerDependenciesMeta:
@@ -729,8 +729,8 @@ packages:
       prettier: ^3.0.0
       svelte: ^5.0.0
 
-  prettier@3.9.0:
-    resolution: {integrity: sha512-LjIqSIC5VYLzs9WedVmJ2ljNAGnU+DteIClbahu4L/DBeWjZ6iT/k1lAYyu9JUh+1xINxWadaPw/Pl63y/agAw==}
+  prettier@3.9.1:
+    resolution: {integrity: sha512-ppiDo2CSwexck1eyZUwJHg/N3nf1+6IRCv7W/VJ5vaLnVCmB7+3CdRfMwoCHBBX6xTrREDTksZ4OZl5SSf4zXA==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -1352,7 +1352,7 @@ snapshots:
 
   esprima@4.0.1: {}
 
-  esrap@2.2.12:
+  esrap@2.2.13:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
@@ -1466,12 +1466,12 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-svelte@4.1.1(prettier@3.9.0)(svelte@5.56.4):
+  prettier-plugin-svelte@4.1.1(prettier@3.9.1)(svelte@5.56.4):
     dependencies:
-      prettier: 3.9.0
+      prettier: 3.9.1
       svelte: 5.56.4
 
-  prettier@3.9.0: {}
+  prettier@3.9.1: {}
 
   quansync@1.0.0: {}
 
@@ -1519,7 +1519,7 @@ snapshots:
       clsx: 2.1.1
       devalue: 5.8.1
       esm-env: 1.2.2
-      esrap: 2.2.12
+      esrap: 2.2.13
       is-reference: 3.0.3
       locate-character: 3.0.0
       magic-string: 0.30.21
