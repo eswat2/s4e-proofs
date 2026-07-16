@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.2.0
-        version: 7.2.0(svelte@5.56.5)(vite@8.1.4(jiti@2.7.0)(yaml@2.9.0))
+        version: 7.2.0(svelte@5.56.5)(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))
       bumpp:
         specifier: 11.1.0
         version: 11.1.0
@@ -33,8 +33,8 @@ importers:
         specifier: 5.56.5
         version: 5.56.5
       vite:
-        specifier: 8.1.4
-        version: 8.1.4(jiti@2.7.0)(yaml@2.9.0)
+        specifier: 8.1.5
+        version: 8.1.5(jiti@2.7.0)(yaml@2.9.0)
       yoctocolors:
         specifier: 2.1.2
         version: 2.1.2
@@ -783,8 +783,8 @@ packages:
   unconfig@7.5.0:
     resolution: {integrity: sha512-oi8Qy2JV4D3UQ0PsopR28CzdQ3S/5A1zwsUwp/rosSbfhJ5z7b90bIyTwi/F7hCLD4SGcZVjDzd4XoUQcEanvA==}
 
-  vite@8.1.4:
-    resolution: {integrity: sha512-bTT9PsdWO+MQMNG9ZXIP/qM9wGh37DFxTV/sPq9cFpHr3w4jkgef032PkAL9jAqhk3Nz8NQw3O8n6/xFkqO4QQ==}
+  vite@8.1.5:
+    resolution: {integrity: sha512-7ULLwsCdYx/nRyrpiEwvqb5TFHrMVZyBt+rg/OAXT7rgj/z+DtTDyKFeLAdDkubDVDKD8jOsndmy7m55XcfUsw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -1187,14 +1187,14 @@ snapshots:
     dependencies:
       acorn: 8.17.0
 
-  '@sveltejs/vite-plugin-svelte@7.2.0(svelte@5.56.5)(vite@8.1.4(jiti@2.7.0)(yaml@2.9.0))':
+  '@sveltejs/vite-plugin-svelte@7.2.0(svelte@5.56.5)(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 0.30.21
       obug: 2.1.3
       svelte: 5.56.5
-      vite: 8.1.4(jiti@2.7.0)(yaml@2.9.0)
-      vitefu: 1.1.3(vite@8.1.4(jiti@2.7.0)(yaml@2.9.0))
+      vite: 8.1.5(jiti@2.7.0)(yaml@2.9.0)
+      vitefu: 1.1.3(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0))
 
   '@tybys/wasm-util@0.10.3':
     dependencies:
@@ -1550,7 +1550,7 @@ snapshots:
       quansync: 1.0.0
       unconfig-core: 7.5.0
 
-  vite@8.1.4(jiti@2.7.0)(yaml@2.9.0):
+  vite@8.1.5(jiti@2.7.0)(yaml@2.9.0):
     dependencies:
       lightningcss: 1.32.0
       picomatch: 4.0.5
@@ -1562,9 +1562,9 @@ snapshots:
       jiti: 2.7.0
       yaml: 2.9.0
 
-  vitefu@1.1.3(vite@8.1.4(jiti@2.7.0)(yaml@2.9.0)):
+  vitefu@1.1.3(vite@8.1.5(jiti@2.7.0)(yaml@2.9.0)):
     optionalDependencies:
-      vite: 8.1.4(jiti@2.7.0)(yaml@2.9.0)
+      vite: 8.1.5(jiti@2.7.0)(yaml@2.9.0)
 
   vscode-languageserver-textdocument@1.0.12: {}
 
