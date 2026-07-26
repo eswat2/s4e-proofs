@@ -36,8 +36,8 @@ importers:
         specifier: 8.1.5
         version: 8.1.5(jiti@2.7.0)(yaml@2.9.0)
       yoctocolors:
-        specifier: 2.1.2
-        version: 2.1.2
+        specifier: 2.2.0
+        version: 2.2.0
 
 packages:
 
@@ -857,8 +857,8 @@ packages:
     engines: {node: '>= 14.6'}
     hasBin: true
 
-  yoctocolors@2.1.2:
-    resolution: {integrity: sha512-CzhO+pFNo8ajLM2d2IW/R93ipy99LWjtwblvC1RsoSUMZgyLbYFr221TnSNT7GjGdYui6P459mw9JH/g/zW2ug==}
+  yoctocolors@2.2.0:
+    resolution: {integrity: sha512-xYqdZFUK/VYazNl/oCDYN+3WloWQwMfZxBoiNt6qNyk+xfOdi598muWE42rNZFp1kNOiqW936q5RhUdnpqElSg==}
     engines: {node: '>=18'}
 
   zimmerframe@1.1.4:
@@ -1582,6 +1582,6 @@ snapshots:
 
   yaml@2.9.0: {}
 
-  yoctocolors@2.1.2: {}
+  yoctocolors@2.2.0: {}
 
   zimmerframe@1.1.4: {}
