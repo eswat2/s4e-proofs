@@ -7,5 +7,25 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - svelte@5.56.10
-  - vite@8.2.2
+  - '@cspell/cspell-bundled-dicts@10.1.0'
+  - '@cspell/cspell-json-reporter@10.1.0'
+  - '@cspell/cspell-performance-monitor@10.1.0'
+  - '@cspell/cspell-pipe@10.1.0'
+  - '@cspell/cspell-resolver@10.1.0'
+  - '@cspell/cspell-service-bus@10.1.0'
+  - '@cspell/cspell-types@10.1.0'
+  - '@cspell/cspell-worker@10.1.0'
+  - '@cspell/dynamic-import@10.1.0'
+  - '@cspell/filetypes@10.1.0'
+  - '@cspell/rpc@10.1.0'
+  - '@cspell/strong-weak-map@10.1.0'
+  - '@cspell/url@10.1.0'
+  - cspell-config-lib@10.1.0
+  - cspell-dictionary@10.1.0
+  - cspell-gitignore@10.1.0
+  - cspell-glob@10.1.0
+  - cspell-grammar@10.1.0
+  - cspell-io@10.1.0
+  - cspell-lib@10.1.0
+  - cspell-trie-lib@10.1.0
+  - cspell@10.1.0
