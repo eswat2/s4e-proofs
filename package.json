@@ -1,6 +1,6 @@
 {
   "name": "svelte-app",
-  "version": "0.0.1401",
+  "version": "0.0.1402",
   "type": "module",
   "engines": {
     "node": ">=18"
