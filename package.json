@@ -29,7 +29,7 @@
     "prettier-plugin-svelte": "4.1.1",
     "rangetouch": "2.0.1",
     "svelte": "5.57.1",
-    "vite": "8.3.2",
+    "vite": "8.3.3",
     "yoctocolors": "2.2.0"
   },
   "packageManager": "pnpm@12.9.1+sha512.06b055fff5cd20dc12781de173ced3310ce0951bf2ec620211a16045d5444d5c93a663210764ef29a653a610459ba0368f0e74f84d80c54723cf95aae7bc0d6d"
