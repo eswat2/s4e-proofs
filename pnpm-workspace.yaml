@@ -6,6 +6,3 @@ allowBuilds:
   'esbuild': true
   'koffi': true
   'proto-tailwindcss-clrs': true
-
-minimumReleaseAgeExclude:
-  - vite@8.3.6
