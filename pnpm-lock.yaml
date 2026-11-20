@@ -10,7 +10,7 @@ importers:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: 7.3.1
-        version: 7.3.1(svelte@5.59.0)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))
+        version: 7.3.1(svelte@5.59.1)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))
       bumpp:
         specifier: 12.3.0
         version: 12.3.0
@@ -25,13 +25,13 @@ importers:
         version: 3.10.1
       prettier-plugin-svelte:
         specifier: 4.2.0
-        version: 4.2.0(prettier@3.10.1)(svelte@5.59.0)
+        version: 4.2.0(prettier@3.10.1)(svelte@5.59.1)
       rangetouch:
         specifier: 2.0.1
         version: 2.0.1
       svelte:
-        specifier: 5.59.0
-        version: 5.59.0
+        specifier: 5.59.1
+        version: 5.59.1
       vite:
         specifier: 8.3.8
         version: 8.3.8(jiti@2.7.0)(yaml@2.9.1)
@@ -774,8 +774,8 @@ packages:
     resolution: {integrity: sha512-J7ZjMvHd9O1fcT/5V09QWaaSl2BbWx3F6O08spde82Namf9UB0GxRVIPiNbVsdKkoizHiSpTodo3vp2bAy91MA==}
     engines: {node: '>=6.0.0'}
 
-  svelte@5.59.0:
-    resolution: {integrity: sha512-D2wE/hsHvZtbitZ+2TSFsiw00ck/Y9uK4tO59f391z4bzbdyVO2tFHqwiENKc57pp51hX7klBG+EkAVyDlD4sw==}
+  svelte@5.59.1:
+    resolution: {integrity: sha512-ADG20W/jYSQut/79AavRRfbXQYebFKMVWT/xAbjVVZfZA4XzIoFfcpanEfYTyN+uWQUaPP+nstFx4qVKwEVnQQ==}
     engines: {node: '>=18'}
 
   tinyexec@1.3.1:
@@ -1208,12 +1208,12 @@ snapshots:
     dependencies:
       acorn: 8.19.0
 
-  '@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.59.0)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))':
+  '@sveltejs/vite-plugin-svelte@7.3.1(svelte@5.59.1)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))':
     dependencies:
       deepmerge: 4.3.1
       magic-string: 1.4.5
       obug: 2.2.1
-      svelte: 5.59.0
+      svelte: 5.59.1
       vite: 8.3.8(jiti@2.7.0)(yaml@2.9.1)
       vitefu: 1.1.4(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))
 
@@ -1489,10 +1489,10 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.4
 
-  prettier-plugin-svelte@4.2.0(prettier@3.10.1)(svelte@5.59.0):
+  prettier-plugin-svelte@4.2.0(prettier@3.10.1)(svelte@5.59.1):
     dependencies:
       prettier: 3.10.1
-      svelte: 5.59.0
+      svelte: 5.59.1
 
   prettier@3.10.1: {}
 
@@ -1530,7 +1530,7 @@ snapshots:
 
   source-map-js@1.2.4: {}
 
-  svelte@5.59.0:
+  svelte@5.59.1:
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@jridgewell/sourcemap-codec': 1.6.0
