@@ -21,7 +21,7 @@
     "open": "open https://s4e-proofs.vercel.app"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "7.3.1",
+    "@sveltejs/vite-plugin-svelte": "7.3.2",
     "bumpp": "12.3.0",
     "cspell": "10.5.2",
     "only-allow": "1.2.2",
